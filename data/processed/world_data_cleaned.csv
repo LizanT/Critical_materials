@@ -1,0 +1,1089 @@
+SOURCE,COMMODITY,COUNTRY,TYPE,UNIT_MEAS,PROD_2023,PROD_EST_ 2024,PROD_NOTES,CAP_2023,CAP_EST_ 2024,CAP_NOTES,RESERVES_2024,RESERVE_NOTES,RESERVES_2024_CLEAN,COUNTRY_CLEAN
+MCS2025,Abrasives,United States,"Plant capacity, fused aluminum oxide",metric tons,,,estimated for 2023,,,,,,,United States
+MCS2025,Abrasives,Australia,"Plant capacity, fused aluminum oxide",metric tons,,,,50000.0,50000.0,,,,,Australia
+MCS2025,Abrasives,Austria,"Plant capacity, fused aluminum oxide",metric tons,,,,90000.0,90000.0,,,,,Austria
+MCS2025,Abrasives,Brazil,"Plant capacity, fused aluminum oxide",metric tons,,,,50000.0,50000.0,,,,,Brazil
+MCS2025,Abrasives,China,"Plant capacity, fused aluminum oxide",metric tons,,,,800000.0,800000.0,,,,,China
+MCS2025,Abrasives,France,"Plant capacity, fused aluminum oxide",metric tons,,,,40000.0,40000.0,,,,,France
+MCS2025,Abrasives,Germany,"Plant capacity, fused aluminum oxide",metric tons,,,,80000.0,80000.0,,,,,Germany
+MCS2025,Abrasives,India,"Plant capacity, fused aluminum oxide",metric tons,,,,40000.0,40000.0,,,,,India
+MCS2025,Abrasives,Japan,"Plant capacity, fused aluminum oxide",metric tons,,,,15000.0,15000.0,,,,,Japan
+MCS2025,Abrasives,Mexico,"Plant capacity, fused aluminum oxide",metric tons,,,,,,,,,,Mexico
+MCS2025,Abrasives,Norway,"Plant capacity, fused aluminum oxide",metric tons,,,,,,,,,,Norway
+MCS2025,Abrasives,Venezuela,"Plant capacity, fused aluminum oxide",metric tons,,,,,,,,,,Venezuela
+MCS2025,Abrasives,United States,"Plant capacity, silicon carbide",metric tons,,,,40000.0,40000.0,,,,,United States
+MCS2025,Abrasives,Australia,"Plant capacity, silicon carbide",metric tons,,,,,,,,,,Australia
+MCS2025,Abrasives,Austria,"Plant capacity, silicon carbide",metric tons,,,,,,,,,,Austria
+MCS2025,Abrasives,Brazil,"Plant capacity, silicon carbide",metric tons,,,,40000.0,40000.0,,,,,Brazil
+MCS2025,Abrasives,China,"Plant capacity, silicon carbide",metric tons,,,,450000.0,450000.0,,,,,China
+MCS2025,Abrasives,France,"Plant capacity, silicon carbide",metric tons,,,,20000.0,20000.0,,,,,France
+MCS2025,Abrasives,Germany,"Plant capacity, silicon carbide",metric tons,,,,35000.0,35000.0,,,,,Germany
+MCS2025,Abrasives,India,"Plant capacity, silicon carbide",metric tons,,,,5000.0,5000.0,,,,,India
+MCS2025,Abrasives,Japan,"Plant capacity, silicon carbide",metric tons,,,,60000.0,60000.0,,,,,Japan
+MCS2025,Abrasives,Mexico,"Plant capacity, silicon carbide",metric tons,,,,45000.0,45000.0,,,,,Mexico
+MCS2025,Abrasives,Norway,"Plant capacity, silicon carbide",metric tons,,,,80000.0,80000.0,,,,,Norway
+MCS2025,Abrasives,Venezuela,"Plant capacity, silicon carbide",metric tons,,,,30000.0,30000.0,,,,,Venezuela
+MCS2025,Aluminum,United States,"Smelter production, aluminum",thousand metric tons,750.0,670.0,,1360.0,1360.0,,,,,United States
+MCS2025,Aluminum,Australia,"Smelter production, aluminum",thousand metric tons,1560.0,1500.0,,1730.0,1730.0,,,,,Australia
+MCS2025,Aluminum,Bahrain,"Smelter production, aluminum",thousand metric tons,1620.0,1600.0,,1600.0,1600.0,,,,,Bahrain
+MCS2025,Aluminum,Brazil,"Smelter production, aluminum",thousand metric tons,1020.0,1100.0,,1280.0,1280.0,,,,,Brazil
+MCS2025,Aluminum,Canada ,"Smelter production, aluminum",thousand metric tons,3200.0,3300.0,estimated 2023,3270.0,3270.0,,,,,Canada
+MCS2025,Aluminum,China,"Smelter production, aluminum",thousand metric tons,41600.0,43000.0,,44400.0,44700.0,,,,,China
+MCS2025,Aluminum,Iceland,"Smelter production, aluminum",thousand metric tons,770.0,780.0,estimated 2023,880.0,880.0,,,,,Iceland
+MCS2025,Aluminum,India,"Smelter production, aluminum",thousand metric tons,4100.0,4200.0,estimated 2023,4100.0,4200.0,,,,,India
+MCS2025,Aluminum,Malaysia,"Smelter production, aluminum",thousand metric tons,940.0,870.0,estimated 2023,1080.0,1080.0,,,,,Malaysia
+MCS2025,Aluminum,Norway,"Smelter production, aluminum",thousand metric tons,1300.0,1300.0,estimated 2023,1460.0,1460.0,,,,,Norway
+MCS2025,Aluminum,Russia ,"Smelter production, aluminum",thousand metric tons,3700.0,3800.0,estimated 2023,4080.0,4080.0,,,,,Russia
+MCS2025,Aluminum,United Arab Emirates,"Smelter production, aluminum",thousand metric tons,2660.0,2700.0,,2790.0,2790.0,,,,,United Arab Emirates
+MCS2025,Antimony,United States,"Mine production, antimony content",metric tons,,,,,,,60000,Company-reported probable reserves for Stibnite Gold Project in Idaho,60000.0,United States
+MCS2025,Antimony,Australia,"Mine production, antimony content",metric tons,1860.0,2000.0,,,,,140000,"For Australia, Joint Ore Reserves Committee-compliant or equivalent reserves were 20,000 tons.",140000.0,Australia
+MCS2025,Antimony,Bolivia,"Mine production, antimony content",metric tons,3700.0,3700.0,,,,,310000,,310000.0,Bolivia
+MCS2025,Antimony,Burma,"Mine production, antimony content",metric tons,4500.0,4500.0,,,,,140000,,140000.0,Burma
+MCS2025,Antimony,Canada ,"Mine production, antimony content",metric tons,,,,,,,78000,,78000.0,Canada
+MCS2025,Antimony,China,"Mine production, antimony content",metric tons,62300.0,60000.0,estimated 2023,,,,670000,,670000.0,China
+MCS2025,Antimony,Guatemala,"Mine production, antimony content",metric tons,49.0,50.0,,,,,,,,Guatemala
+MCS2025,Antimony,Iran,"Mine production, antimony content",metric tons,500.0,500.0,estimated 2023,,,,,,,Iran
+MCS2025,Antimony,Kazakhstan,"Mine production, antimony content",metric tons,40.0,40.0,estimated 2023,,,,,,,Kazakhstan
+MCS2025,Antimony,Kyrgyzstan,"Mine production, antimony content",metric tons,20.0,20.0,,,,,260000,,260000.0,Kyrgyzstan
+MCS2025,Antimony,Laos,"Mine production, antimony content",metric tons,200.0,200.0,estimated 2023,,,,,,,Laos
+MCS2025,Antimony,Mexico,"Mine production, antimony content",metric tons,800.0,800.0,,,,,18000,,18000.0,Mexico
+MCS2025,Antimony,Pakistan,"Mine production, antimony content",metric tons,250.0,250.0,,,,,26000,,26000.0,Pakistan
+MCS2025,Antimony,Russia ,"Mine production, antimony content",metric tons,13000.0,13000.0,,,,,350000,,350000.0,Russia
+MCS2025,Antimony,Tajikistan,"Mine production, antimony content",metric tons,17000.0,17000.0,,,,,50000,,50000.0,Tajikistan
+MCS2025,Antimony,Turkey,"Mine production, antimony content",metric tons,1600.0,1600.0,estimated 2023,,,,99000,,99000.0,Turkey
+MCS2025,Antimony,Vietnam,"Mine production, antimony content",metric tons,300.0,300.0,,,,,54000,,54000.0,Vietnam
+MCS2025,Arsenic,United States,"Plant production, arsenic trioxide or calculated equivalent.",metric tons,,,,,,,,,,United States
+MCS2025,Arsenic,Belgium,"Plant production, arsenic trioxide or calculated equivalent.",metric tons,1000.0,1000.0,,,1500.0,,,,,Belgium
+MCS2025,Arsenic,China,"Plant production, arsenic trioxide or calculated equivalent.",metric tons,24000.0,24000.0,,,30000.0,,,,,China
+MCS2025,Arsenic,Japan,"Plant production, arsenic trioxide or calculated equivalent.",metric tons,40.0,40.0,estimated 2023,,60.0,,,,,Japan
+MCS2025,Arsenic,Morocco,"Plant production, arsenic trioxide or calculated equivalent.",metric tons,6000.0,6000.0,,,8000.0,,,,,Morocco
+MCS2025,Arsenic,Peru,"Plant production, arsenic trioxide or calculated equivalent.",metric tons,30000.0,27000.0,,,37000.0,,,,,Peru
+MCS2025,Arsenic,Russia ,"Plant production, arsenic trioxide or calculated equivalent.",metric tons,500.0,200.0,estimated 2023,,4000.0,,,,,Russia
+MCS2025,Asbestos,United States,"Mine production, asbestos",metric tons,,,,,,,,Small,,United States
+MCS2025,Asbestos,Brazil,"Mine production, asbestos",metric tons,189000.0,160000.0,"Export sales reported by the only producer of asbestos in Brazil. In February 2023, the Supreme Federal Court of Brazil confirmed a 2017 judgment that the extraction, sale, and use of asbestos were unconstitutional. Despite the ruling, a company in Brazil continued to mine asbestos, citing the authority of a State law that authorized extraction and processing for export purposes.",,,,11000000,,11000000.0,Brazil
+MCS2025,Asbestos,China,"Mine production, asbestos",metric tons,200000.0,200000.0,estimated 2023,,,,18000000,,18000000.0,China
+MCS2025,Asbestos,Kazakhstan,"Mine production, asbestos",metric tons,255000.0,210000.0,,,,,,Large,,Kazakhstan
+MCS2025,Asbestos,Russia ,"Mine production, asbestos",metric tons,600000.0,600000.0,,,,,110000000,,110000000.0,Russia
+MCS2025,Barite,United States,"Mine production, barite, estimated",thousand metric tons,,,W for 23-24,,,,,,,United States
+MCS2025,Barite,China,"Mine production, barite, estimated",thousand metric tons,2000.0,2100.0,,,,,110000,,110000.0,China
+MCS2025,Barite,India,"Mine production, barite, estimated",thousand metric tons,2600.0,2600.0,,,,,51000,,51000.0,India
+MCS2025,Barite,Iran,"Mine production, barite, estimated",thousand metric tons,300.0,310.0,,,,,100000,,100000.0,Iran
+MCS2025,Barite,Kazakhstan,"Mine production, barite, estimated",thousand metric tons,650.0,650.0,,,,,85000,,85000.0,Kazakhstan
+MCS2025,Barite,Laos,"Mine production, barite, estimated",thousand metric tons,300.0,300.0,,,,,,,,Laos
+MCS2025,Barite,Mexico,"Mine production, barite, estimated",thousand metric tons,320.0,330.0,,,,,,,,Mexico
+MCS2025,Barite,Morocco,"Mine production, barite, estimated",thousand metric tons,1000.0,1000.0,,,,,,,,Morocco
+MCS2025,Barite,Pakistan,"Mine production, barite, estimated",thousand metric tons,130.0,130.0,,,,,,,,Pakistan
+MCS2025,Barite,Russia ,"Mine production, barite, estimated",thousand metric tons,250.0,250.0,,,,,12000,,12000.0,Russia
+MCS2025,Barite,Turkey,"Mine production, barite, estimated",thousand metric tons,216.0,220.0,Reported.,,,,34000,,34000.0,Turkey
+MCS2025,Bauxite,United States,"Refinery production, alumina - calcined equivalent weights",thousand metric dry tons,850.0,720.0,estimated 2023,,,,,,,United States
+MCS2025,Bauxite,Australia,"Refinery production, alumina - calcined equivalent weights",thousand metric dry tons,18800.0,18000.0,,,,,,,,Australia
+MCS2025,Bauxite,Brazil,"Refinery production, alumina - calcined equivalent weights",thousand metric dry tons,11000.0,11000.0,estimated 2023,,,,,,,Brazil
+MCS2025,Bauxite,Canada ,"Refinery production, alumina - calcined equivalent weights",thousand metric dry tons,1500.0,1500.0,,,,,,,,Canada
+MCS2025,Bauxite,China,"Refinery production, alumina - calcined equivalent weights",thousand metric dry tons,82400.0,84000.0,,,,,,,,China
+MCS2025,Bauxite,Germany,"Refinery production, alumina - calcined equivalent weights",thousand metric dry tons,900.0,960.0,estimated 2023,,,,,,,Germany
+MCS2025,Bauxite,Greece,"Refinery production, alumina - calcined equivalent weights",thousand metric dry tons,869.0,860.0,,,,,,,,Greece
+MCS2025,Bauxite,Guinea,"Refinery production, alumina - calcined equivalent weights",thousand metric dry tons,273.0,300.0,,,,,,,,Guinea
+MCS2025,Bauxite,India,"Refinery production, alumina - calcined equivalent weights",thousand metric dry tons,7500.0,7600.0,estimated 2023,,,,,,,India
+MCS2025,Bauxite,Indonesia,"Refinery production, alumina - calcined equivalent weights",thousand metric dry tons,1200.0,1300.0,estimated 2023,,,,,,,Indonesia
+MCS2025,Bauxite,Ireland,"Refinery production, alumina - calcined equivalent weights",thousand metric dry tons,1380.0,1600.0,,,,,,,,Ireland
+MCS2025,Bauxite,Jamaica,"Refinery production, alumina - calcined equivalent weights",thousand metric dry tons,1400.0,1500.0,,,,,,,,Jamaica
+MCS2025,Bauxite,Kazakhstan,"Refinery production, alumina - calcined equivalent weights",thousand metric dry tons,1300.0,1400.0,,,,,,,,Kazakhstan
+MCS2025,Bauxite,Russia ,"Refinery production, alumina - calcined equivalent weights",thousand metric dry tons,3020.0,2900.0,,,,,,,,Russia
+MCS2025,Bauxite,Saudi Arabia,"Refinery production, alumina - calcined equivalent weights",thousand metric dry tons,1830.0,1800.0,,,,,,,,Saudi Arabia
+MCS2025,Bauxite,Spain,"Refinery production, alumina - calcined equivalent weights",thousand metric dry tons,716.0,820.0,,,,,,,,Spain
+MCS2025,Bauxite,Turkey,"Refinery production, alumina - calcined equivalent weights",thousand metric dry tons,300.0,320.0,,,,,,,,Turkey
+MCS2025,Bauxite,United Arab Emirates,"Refinery production, alumina - calcined equivalent weights",thousand metric dry tons,2480.0,2400.0,,,,,,,,United Arab Emirates
+MCS2025,Bauxite,Vietnam,"Refinery production, alumina - calcined equivalent weights",thousand metric dry tons,1490.0,1500.0,,,,,,,,Vietnam
+MCS2025,Bauxite,United States,"Mine production, bauxite, dry tons",thousand metric dry tons,,,W for 23-24,,,,20000,,20000.0,United States
+MCS2025,Bauxite,Australia,"Mine production, bauxite, dry tons",thousand metric dry tons,104000.0,100000.0,,,,,3500000,"For Australia, Joint Ore Reserves Committee-compliant or equivalent reserves were 1.6 billion tons.",3500000.0,Australia
+MCS2025,Bauxite,Brazil,"Mine production, bauxite, dry tons",thousand metric dry tons,32000.0,33000.0,estimated 2023,,,,2700000,,2700000.0,Brazil
+MCS2025,Bauxite,Canada ,"Mine production, bauxite, dry tons",thousand metric dry tons,,,,,,,,,,Canada
+MCS2025,Bauxite,China,"Mine production, bauxite, dry tons",thousand metric dry tons,91000.0,93000.0,estimated 2023,,,,680000,,680000.0,China
+MCS2025,Bauxite,Germany,"Mine production, bauxite, dry tons",thousand metric dry tons,,,,,,,,,,Germany
+MCS2025,Bauxite,Greece,"Mine production, bauxite, dry tons",thousand metric dry tons,1200.0,1200.0,estimated 2023,,,,,,,Greece
+MCS2025,Bauxite,Guinea,"Mine production, bauxite, dry tons",thousand metric dry tons,123000.0,130000.0,,,,,7400000,,7400000.0,Guinea
+MCS2025,Bauxite,India,"Mine production, bauxite, dry tons",thousand metric dry tons,23400.0,25000.0,,,,,650000,,650000.0,India
+MCS2025,Bauxite,Indonesia,"Mine production, bauxite, dry tons",thousand metric dry tons,30000.0,32000.0,estimated 2023,,,,2800000,,2800000.0,Indonesia
+MCS2025,Bauxite,Ireland,"Mine production, bauxite, dry tons",thousand metric dry tons,,,,,,,,,,Ireland
+MCS2025,Bauxite,Jamaica,"Mine production, bauxite, dry tons",thousand metric dry tons,6000.0,6100.0,,,,,2000000,,2000000.0,Jamaica
+MCS2025,Bauxite,Kazakhstan,"Mine production, bauxite, dry tons",thousand metric dry tons,4560.0,4900.0,,,,,280000,,280000.0,Kazakhstan
+MCS2025,Bauxite,Russia ,"Mine production, bauxite, dry tons",thousand metric dry tons,5800.0,6300.0,estimated 2023,,,,480000,,480000.0,Russia
+MCS2025,Bauxite,Saudi Arabia,"Mine production, bauxite, dry tons",thousand metric dry tons,5400.0,5800.0,estimated 2023,,,,180000,,180000.0,Saudi Arabia
+MCS2025,Bauxite,Spain,"Mine production, bauxite, dry tons",thousand metric dry tons,,,,,,,,,,Spain
+MCS2025,Bauxite,Turkey,"Mine production, bauxite, dry tons",thousand metric dry tons,2940.0,3200.0,,,,,69000,,69000.0,Turkey
+MCS2025,Bauxite,United Arab Emirates,"Mine production, bauxite, dry tons",thousand metric dry tons,,,,,,,,,,United Arab Emirates
+MCS2025,Bauxite,Vietnam,"Mine production, bauxite, dry tons",thousand metric dry tons,3920.0,4200.0,estimated 2023,,,,3100000,,3100000.0,Vietnam
+MCS2025,Beryllium,United States,"Mine production, beryllium content",metric tons,185.0,180.0,,,,,,,,United States
+MCS2025,Beryllium,Brazil,"Mine production, beryllium content",metric tons,40.0,80.0,estimated 2023,,,,,,,Brazil
+MCS2025,Beryllium,China,"Mine production, beryllium content",metric tons,74.0,77.0,estimated 2023,,,,,,,China
+MCS2025,Beryllium,Madagascar,"Mine production, beryllium content",metric tons,1.0,1.0,estimated 2023,,,,,,,Madagascar
+MCS2025,Beryllium,Mozambique,"Mine production, beryllium content",metric tons,23.0,24.0,,,,,,,,Mozambique
+MCS2025,Beryllium,Rwanda,"Mine production, beryllium content",metric tons,1.0,1.0,estimated 2023,,,,,,,Rwanda
+MCS2025,Beryllium,Uganda,"Mine production, beryllium content",metric tons,1.0,1.0,estimated 2023,,,,,,,Uganda
+MCS2025,Bismuth,United States,Refinery production,metric tons,,,,,,,,,,United States
+MCS2025,Bismuth,Bolivia,Refinery production,metric tons,68.0,70.0,,,,,,,,Bolivia
+MCS2025,Bismuth,Bulgaria,Refinery production,metric tons,46.0,50.0,,,,,,,,Bulgaria
+MCS2025,Bismuth,China,Refinery production,metric tons,13300.0,13000.0,,,,,,,,China
+MCS2025,Bismuth,Japan,Refinery production,metric tons,500.0,500.0,,,,,,,,Japan
+MCS2025,Bismuth,Kazakhstan,Refinery production,metric tons,180.0,180.0,,,,,,,,Kazakhstan
+MCS2025,Bismuth,"Korea, Republic of",Refinery production,metric tons,1000.0,1000.0,,,,,,,,"Korea, Republic of"
+MCS2025,Bismuth,Laos,Refinery production,metric tons,1150.0,1100.0,reported,,,,,,,Laos
+MCS2025,Boron,United States,Boron all types,thousand metric tons,,,W for 23-24,,,,48000,,48000.0,United States
+MCS2025,Boron,Argentina,Boron all types,thousand metric tons,160.0,160.0,Crude ore,,,,,,,Argentina
+MCS2025,Boron,Bolivia,Boron all types,thousand metric tons,140.0,230.0,Ulexite,,,,,,,Bolivia
+MCS2025,Boron,Chile,Boron all types,thousand metric tons,420.0,420.0,Ulexite,,,,35000,,35000.0,Chile
+MCS2025,Boron,China,Boron all types,thousand metric tons,300.0,340.0,boric oxide equivalent,,,,9100,,9100.0,China
+MCS2025,Boron,Germany,Boron all types,thousand metric tons,38.0,40.0,compounds,,,,,,,Germany
+MCS2025,Boron,Peru,Boron all types,thousand metric tons,300.0,300.0,crude borates,,,,4000,,4000.0,Peru
+MCS2025,Boron,Russia,Boron all types,thousand metric tons,80.0,80.0,datolite ore,,,,40000,,40000.0,Russia
+MCS2025,Boron,Turkey,Boron all types,thousand metric tons,2500.0,3000.0,refined borates,,,,950000,,950000.0,Turkey
+MCS2025,Bromine,United States,"Production, bromine content, estimated",metric tons,,,W for 23-24,,,,11000000,,11000000.0,United States
+MCS2025,Bromine,China,"Production, bromine content, estimated",metric tons,101000.0,100000.0,Reported,,,,130000,,130000.0,China
+MCS2025,Bromine,India,"Production, bromine content, estimated",metric tons,6900.0,7000.0,,,,,,,,India
+MCS2025,Bromine,Israel,"Production, bromine content, estimated",metric tons,143000.0,140000.0,Reported,,,,,Large,,Israel
+MCS2025,Bromine,Japan,"Production, bromine content, estimated",metric tons,20000.0,20000.0,,,,,,,,Japan
+MCS2025,Bromine,Jordan,"Production, bromine content, estimated",metric tons,116000.0,120000.0,Reported,,,,360000,,360000.0,Jordan
+MCS2025,Bromine,Ukraine,"Production, bromine content, estimated",metric tons,8000.0,8000.0,,,,,,,,Ukraine
+MCS2025,Cadmium,United States,"Refinery production, estimated",metric tons,375.0,300.0,reported,,,,,Quantitative estimates of reserves were not available. The cadmium content of typical zinc ores averages about 0.03%. See the Zinc chapter for zinc reserves.,,United States
+MCS2025,Cadmium,Australia,"Refinery production, estimated",metric tons,900.0,900.0,,,,,,,,Australia
+MCS2025,Cadmium,Bulgaria,"Refinery production, estimated",metric tons,310.0,300.0,,,,,,,,Bulgaria
+MCS2025,Cadmium,Canada ,"Refinery production, estimated",metric tons,1800.0,1700.0,,,,,,,,Canada
+MCS2025,Cadmium,China,"Refinery production, estimated",metric tons,9300.0,9300.0,,,,,,,,China
+MCS2025,Cadmium,Germany,"Refinery production, estimated",metric tons,,170.0, ,,,,,,,Germany
+MCS2025,Cadmium,Japan,"Refinery production, estimated",metric tons,1800.0,1700.0,,,,,,,,Japan
+MCS2025,Cadmium,Kazakhstan,"Refinery production, estimated",metric tons,1000.0,1000.0,,,,,,,,Kazakhstan
+MCS2025,Cadmium,"Korea, Republic of","Refinery production, estimated",metric tons,4500.0,4500.0,,,,,,,,"Korea, Republic of"
+MCS2025,Cadmium,Mexico,"Refinery production, estimated",metric tons,1020.0,1200.0,reported,,,,,,,Mexico
+MCS2025,Cadmium,Netherlands,"Refinery production, estimated",metric tons,726.0,400.0,reported,,,,,,,Netherlands
+MCS2025,Cadmium,Norway,"Refinery production, estimated",metric tons,420.0,350.0,,,,,,,,Norway
+MCS2025,Cadmium,Peru,"Refinery production, estimated",metric tons,494.0,620.0,reported,,,,,,,Peru
+MCS2025,Cadmium,Poland,"Refinery production, estimated",metric tons,250.0,250.0,,,,,,,,Poland
+MCS2025,Cadmium,Russia ,"Refinery production, estimated",metric tons,1000.0,800.0,,,,,,,,Russia
+MCS2025,Cadmium,Uzbekistan,"Refinery production, estimated",metric tons,220.0,200.0,,,,,,,,Uzbekistan
+MCS2025,Cement,United States (includes Puerto Rico),"Cement production, estimated",thousand metric tons,90000.0,86000.0,,,,,,,,United States
+MCS2025,Cement,Brazil,"Cement production, estimated",thousand metric tons,67000.0,68000.0,,,,,,,,Brazil
+MCS2025,Cement,China,"Cement production, estimated",thousand metric tons,2000000.0,1900000.0,,,,,,,,China
+MCS2025,Cement,Egypt,"Cement production, estimated",thousand metric tons,52000.0,50000.0,,,,,,,,Egypt
+MCS2025,Cement,India,"Cement production, estimated",thousand metric tons,420000.0,450000.0,,,,,,,,India
+MCS2025,Cement,Indonesia,"Cement production, estimated",thousand metric tons,67000.0,65000.0,,,,,,,,Indonesia
+MCS2025,Cement,Iran,"Cement production, estimated",thousand metric tons,71000.0,72000.0,,,,,,,,Iran
+MCS2025,Cement,Japan,"Cement production, estimated",thousand metric tons,48000.0,46000.0,,,,,,,,Japan
+MCS2025,Cement,"Korea, Republic of","Cement production, estimated",thousand metric tons,51000.0,52000.0,,,,,,,,"Korea, Republic of"
+MCS2025,Cement,Mexico,"Cement production, estimated",thousand metric tons,48000.0,48000.0,,,,,,,,Mexico
+MCS2025,Cement,Russia ,"Cement production, estimated",thousand metric tons,63000.0,65000.0,,,,,,,,Russia
+MCS2025,Cement,Saudi Arabia,"Cement production, estimated",thousand metric tons,49000.0,50000.0,,,,,,,,Saudi Arabia
+MCS2025,Cement,Turkey,"Cement production, estimated",thousand metric tons,81000.0,82000.0,,,,,,,,Turkey
+MCS2025,Cement,Vietnam,"Cement production, estimated",thousand metric tons,110000.0,110000.0,,,,,,,,Vietnam
+MCS2025,Cement,United States (includes Puerto Rico),"Clinker capacity, estimated",thousand metric tons,100000.0,100000.0,,,,,,,,United States
+MCS2025,Cement,Brazil,"Clinker capacity, estimated",thousand metric tons,60000.0,60000.0,,,,,,,,Brazil
+MCS2025,Cement,China,"Clinker capacity, estimated",thousand metric tons,2000000.0,1900000.0,,,,,,,,China
+MCS2025,Cement,Egypt,"Clinker capacity, estimated",thousand metric tons,60000.0,60000.0,,,,,,,,Egypt
+MCS2025,Cement,India,"Clinker capacity, estimated",thousand metric tons,300000.0,380000.0,,,,,,,,India
+MCS2025,Cement,Indonesia,"Clinker capacity, estimated",thousand metric tons,79000.0,79000.0,,,,,,,,Indonesia
+MCS2025,Cement,Iran,"Clinker capacity, estimated",thousand metric tons,81000.0,85000.0,,,,,,,,Iran
+MCS2025,Cement,Japan,"Clinker capacity, estimated",thousand metric tons,54000.0,50000.0,,,,,,,,Japan
+MCS2025,Cement,"Korea, Republic of","Clinker capacity, estimated",thousand metric tons,62000.0,62000.0,,,,,,,,"Korea, Republic of"
+MCS2025,Cement,Mexico,"Clinker capacity, estimated",thousand metric tons,42000.0,42000.0,,,,,,,,Mexico
+MCS2025,Cement,Russia ,"Clinker capacity, estimated",thousand metric tons,80000.0,80000.0,,,,,,,,Russia
+MCS2025,Cement,Saudi Arabia,"Clinker capacity, estimated",thousand metric tons,75000.0,75000.0,,,,,,,,Saudi Arabia
+MCS2025,Cement,Turkey,"Clinker capacity, estimated",thousand metric tons,92000.0,92000.0,,,,,,,,Turkey
+MCS2025,Cement,Vietnam,"Clinker capacity, estimated",thousand metric tons,110000.0,110000.0,,,,,,,,Vietnam
+MCS2025,Chromium,United States,"Mine production, grosss weight, marketable chromite ore",thousand metric tons,,,,,,,630,Shipping grade,630.0,United States
+MCS2025,Chromium,Brazil,"Mine production, grosss weight, marketable chromite ore",thousand metric tons,1420.0,1400.0,,,,,6600,,6600.0,Brazil
+MCS2025,Chromium,Finland,"Mine production, grosss weight, marketable chromite ore",thousand metric tons,1910.0,1900.0,,,,,8300,,8300.0,Finland
+MCS2025,Chromium,India,"Mine production, grosss weight, marketable chromite ore",thousand metric tons,4100.0,4100.0,estimated 2023,,,,79000,,79000.0,India
+MCS2025,Chromium,Kazakhstan,"Mine production, grosss weight, marketable chromite ore",thousand metric tons,6000.0,6500.0,estimated 2023,,,,320000,,320000.0,Kazakhstan
+MCS2025,Chromium,South Africa ,"Mine production, grosss weight, marketable chromite ore",thousand metric tons,19700.0,21000.0,,,,,200000,,200000.0,South Africa
+MCS2025,Chromium,Turkey,"Mine production, grosss weight, marketable chromite ore",thousand metric tons,8160.0,8000.0,,,,,27000,,27000.0,Turkey
+MCS2025,Chromium,Zimbabwe,"Mine production, grosss weight, marketable chromite ore",thousand metric tons,1070.0,1100.0,,,,,540000,,540000.0,Zimbabwe
+MCS2025,Clays,United States,"Mine poduction, Bentonite",thousand metric tons,4360.0,4800.0,,,,,,,,United States
+MCS2025,Clays,Brazil (beneficiated),"Mine poduction, Bentonite",thousand metric tons,386.0,390.0,,,,,,,,Brazil
+MCS2025,Clays,China,"Mine poduction, Bentonite",thousand metric tons,2100.0,2100.0,estimated 2023,,,,,,,China
+MCS2025,Clays,Czechia,"Mine poduction, Bentonite",thousand metric tons,196.0,200.0,,,,,,,,Czechia
+MCS2025,Clays,Denmark ,"Mine poduction, Bentonite",thousand metric tons,925.0,930.0,estimated 2023,,,,,,,Denmark
+MCS2025,Clays,Greece,"Mine poduction, Bentonite",thousand metric tons,1100.0,1100.0,Includes production of crude ore,,,,,,,Greece
+MCS2025,Clays,India,"Mine poduction, Bentonite",thousand metric tons,3700.0,3700.0,estimated 2023,,,,,,,India
+MCS2025,Clays,Iran,"Mine poduction, Bentonite",thousand metric tons,850.0,850.0,estimated 2023,,,,,,,Iran
+MCS2025,Clays,Mexico,"Mine poduction, Bentonite",thousand metric tons,79.0,80.0,estimated 2023,,,,,,,Mexico
+MCS2025,Clays,Russia ,"Mine poduction, Bentonite",thousand metric tons,36.0,40.0,estimated 2023,,,,,,,Russia
+MCS2025,Clays,Senegal,"Mine poduction, Bentonite",thousand metric tons,,,,,,,,,,Senegal
+MCS2025,Clays,Spain,"Mine poduction, Bentonite",thousand metric tons,118.0,120.0,,,,,,,,Spain
+MCS2025,Clays,Turkey,"Mine poduction, Bentonite",thousand metric tons,2490.0,2500.0,,,,,,,,Turkey
+MCS2025,Clays,Uzbekistan,"Mine poduction, Bentonite",thousand metric tons,60.0,60.0,estimated 2023,,,,,,,Uzbekistan
+MCS2025,Clays,United States,"Mine poduction, Fuller's earth",thousand metric tons,2260.0,2400.0,Does not include U.S. production of attapulgite,,,,,,,United States
+MCS2025,Clays,Greece,"Mine poduction, Fuller's earth",thousand metric tons,49.0,50.0,,,,,,,,Greece
+MCS2025,Clays,India,"Mine poduction, Fuller's earth",thousand metric tons,730.0,730.0,estimated 2023,,,,,,,India
+MCS2025,Clays,Mexico,"Mine poduction, Fuller's earth",thousand metric tons,120.0,120.0,,,,,,,,Mexico
+MCS2025,Clays,Senegal,"Mine poduction, Fuller's earth",thousand metric tons,150.0,150.0,estimated 2023,,,,,,,Senegal
+MCS2025,Clays,Spain,"Mine poduction, Fuller's earth",thousand metric tons,620.0,620.0,,,,,,,,Spain
+MCS2025,Clays,Turkey,"Mine poduction, Fuller's earth",thousand metric tons,74.0,70.0,,,,,,,,Turkey
+MCS2025,Clays,United States,"Mine poduction, Kaolin",thousand metric tons,4560.0,4500.0,estimated 2023,,,,,,,United States
+MCS2025,Clays,Brazil (beneficiated),"Mine poduction, Kaolin",thousand metric tons,828.0,830.0,,,,,,,,Brazil
+MCS2025,Clays,China,"Mine poduction, Kaolin",thousand metric tons,7800.0,7800.0,estimated 2023,,,,,,,China
+MCS2025,Clays,Czechia,"Mine poduction, Kaolin",thousand metric tons,2400.0,2400.0,Includes production of crude ore,,,,,,,Czechia
+MCS2025,Clays,India,"Mine poduction, Kaolin",thousand metric tons,8400.0,8400.0,Includes production of crude ore,,,,,,,India
+MCS2025,Clays,Iran,"Mine poduction, Kaolin",thousand metric tons,2100.0,2100.0,estimated 2023,,,,,,,Iran
+MCS2025,Clays,Mexico,"Mine poduction, Kaolin",thousand metric tons,230.0,230.0,estimated 2023,,,,,,,Mexico
+MCS2025,Clays,Russia ,"Mine poduction, Kaolin",thousand metric tons,2500.0,2500.0,estimated 2023,,,,,,,Russia
+MCS2025,Clays,Spain,"Mine poduction, Kaolin",thousand metric tons,280.0,280.0,"estimated, Includes production of crude ore",,,,,,,Spain
+MCS2025,Clays,Turkey,"Mine poduction, Kaolin",thousand metric tons,1350.0,1300.0,,,,,,,,Turkey
+MCS2025,Clays,Uzbekistan,"Mine poduction, Kaolin",thousand metric tons,4000.0,4000.0,estimated 2023,,,,,,,Uzbekistan
+MCS2025,Cobalt,United States,"Mine production, estimated",metric tons,500.0,300.0,,,,,70000,,70000.0,United States
+MCS2025,Cobalt,Australia,"Mine production, cobalt content, estimated",metric tons,5220.0,3600.0,,,,,1700000,"For Australia, Joint Ore Reserves Committee-compliant or equivalent reserves were 610,000 tons.",1700000.0,Australia
+MCS2025,Cobalt,Canada ,"Mine production, cobalt content, estimated",metric tons,4220.0,4500.0,,,,,220000,,220000.0,Canada
+MCS2025,Cobalt,Congo (Kinshasa),"Mine production, cobalt content, estimated",metric tons,175000.0,220000.0,,,,,6000000,,6000000.0,Democratic Republic of the Congo
+MCS2025,Cobalt,Cuba,"Mine production, cobalt content, estimated",metric tons,3300.0,3500.0,,,,,500000,,500000.0,Cuba
+MCS2025,Cobalt,Indonesia,"Mine production, cobalt content, estimated",metric tons,19000.0,28000.0,,,,,640000,,640000.0,Indonesia
+MCS2025,Cobalt,Madagascar,"Mine production, cobalt content, estimated",metric tons,4000.0,2600.0,,,,,100000,,100000.0,Madagascar
+MCS2025,Cobalt,New Caledonia,"Mine production, cobalt content, estimated",metric tons,2570.0,1500.0,,,,,,,,New Caledonia
+MCS2025,Cobalt,Papua New Guinea,"Mine production, cobalt content, estimated",metric tons,3070.0,2800.0,,,,,62000,,62000.0,Papua New Guinea
+MCS2025,Cobalt,Philippines,"Mine production, cobalt content, estimated",metric tons,3800.0,3800.0,,,,,260000,,260000.0,Philippines
+MCS2025,Cobalt,Russia ,"Mine production, cobalt content, estimated",metric tons,8700.0,8700.0,,,,,250000,,250000.0,Russia
+MCS2025,Cobalt,Turkey,"Mine production, cobalt content, estimated",metric tons,2500.0,2700.0,,,,,91000,,91000.0,Turkey
+MCS2025,Copper,United States,"Mine production, recoverable copper content",thousand metric tons,1130.0,1100.0,,,,,47000,,47000.0,United States
+MCS2025,Copper,Australia,"Mine production, recoverable copper content",thousand metric tons,778.0,800.0,,,,,100000,"For Australia, Joint Ore Reserves Committee-compliant or equivalent reserves were 27 million tons.",100000.0,Australia
+MCS2025,Copper,Canada ,"Mine production, recoverable copper content",thousand metric tons,500.0,450.0,,,,,8300,,8300.0,Canada
+MCS2025,Copper,Chile,"Mine production, recoverable copper content",thousand metric tons,5250.0,5300.0,,,,,190000,,190000.0,Chile
+MCS2025,Copper,China,"Mine production, recoverable copper content",thousand metric tons,1820.0,1800.0,,,,,41000,,41000.0,China
+MCS2025,Copper,Congo (Kinshasa),"Mine production, recoverable copper content",thousand metric tons,2930.0,3300.0,,,,,80000,,80000.0,Democratic Republic of the Congo
+MCS2025,Copper,Germany,"Mine production, recoverable copper content",thousand metric tons,,,,,,,,,,Germany
+MCS2025,Copper,India,"Mine production, recoverable copper content",thousand metric tons,27.0,30.0,,,,,2200,,2200.0,India
+MCS2025,Copper,Indonesia,"Mine production, recoverable copper content",thousand metric tons,907.0,1100.0,,,,,21000,,21000.0,Indonesia
+MCS2025,Copper,Japan,"Mine production, recoverable copper content",thousand metric tons,,,,,,,,,,Japan
+MCS2025,Copper,Kazakhstan,"Mine production, recoverable copper content",thousand metric tons,740.0,740.0,estimated 2023,,,,20000,,20000.0,Kazakhstan
+MCS2025,Copper,"Korea, Republic of","Mine production, recoverable copper content",thousand metric tons,,,,,,,,,,"Korea, Republic of"
+MCS2025,Copper,Mexico,"Mine production, recoverable copper content",thousand metric tons,699.0,700.0,,,,,53000,,53000.0,Mexico
+MCS2025,Copper,Peru,"Mine production, recoverable copper content",thousand metric tons,2760.0,2600.0,,,,,100000,,100000.0,Peru
+MCS2025,Copper,Poland,"Mine production, recoverable copper content",thousand metric tons,395.0,410.0,,,,,34000,,34000.0,Poland
+MCS2025,Copper,Russia ,"Mine production, recoverable copper content",thousand metric tons,890.0,930.0,estimated 2023,,,,80000,,80000.0,Russia
+MCS2025,Copper,Zambia,"Mine production, recoverable copper content",thousand metric tons,712.0,680.0,,,,,21000,,21000.0,Zambia
+MCS2025,Copper,United States,"Refinery production, copper",thousand metric tons,882.0,890.0,,,,,,,,United States
+MCS2025,Copper,Australia,"Refinery production, copper",thousand metric tons,442.0,460.0,,,,,,,,Australia
+MCS2025,Copper,Canada ,"Refinery production, copper",thousand metric tons,315.0,320.0,,,,,,,,Canada
+MCS2025,Copper,Chile,"Refinery production, copper",thousand metric tons,2080.0,1900.0,,,,,,,,Chile
+MCS2025,Copper,China,"Refinery production, copper",thousand metric tons,12000.0,12000.0,,,,,,,,China
+MCS2025,Copper,Congo (Kinshasa),"Refinery production, copper",thousand metric tons,2170.0,2500.0,,,,,,,,Democratic Republic of the Congo
+MCS2025,Copper,Germany,"Refinery production, copper",thousand metric tons,609.0,630.0,,,,,,,,Germany
+MCS2025,Copper,India,"Refinery production, copper",thousand metric tons,509.0,510.0,,,,,,,,India
+MCS2025,Copper,Indonesia,"Refinery production, copper",thousand metric tons,225.0,350.0,,,,,,,,Indonesia
+MCS2025,Copper,Japan,"Refinery production, copper",thousand metric tons,1490.0,1600.0,,,,,,,,Japan
+MCS2025,Copper,Kazakhstan,"Refinery production, copper",thousand metric tons,458.0,470.0,,,,,,,,Kazakhstan
+MCS2025,Copper,"Korea, Republic of","Refinery production, copper",thousand metric tons,604.0,620.0,,,,,,,,"Korea, Republic of"
+MCS2025,Copper,Mexico,"Refinery production, copper",thousand metric tons,509.0,350.0,,,,,,,,Mexico
+MCS2025,Copper,Peru,"Refinery production, copper",thousand metric tons,403.0,390.0,,,,,,,,Peru
+MCS2025,Copper,Poland,"Refinery production, copper",thousand metric tons,592.0,590.0,,,,,,,,Poland
+MCS2025,Copper,Russia ,"Refinery production, copper",thousand metric tons,1000.0,960.0,estimated 2023,,,,,,,Russia
+MCS2025,Copper,Zambia,"Refinery production, copper",thousand metric tons,222.0,170.0,,,,,,,,Zambia
+MCS2025,Diamond (industrial),United States,"Mine production, industrial diamond",million carats,,,,,,,,,,United States
+MCS2025,Diamond (industrial),Angola,"Mine production, industrial diamond",million carats,1.0,1.0,,,,,150,,150.0,Angola
+MCS2025,Diamond (industrial),Botswana,"Mine production, industrial diamond",million carats,8.0,8.0,,,,,250,,250.0,Botswana
+MCS2025,Diamond (industrial),Congo (Kinshasa),"Mine production, industrial diamond",million carats,7.0,7.0,,,,,150,,150.0,Democratic Republic of the Congo
+MCS2025,Diamond (industrial),Russia ,"Mine production, industrial diamond",million carats,16.0,16.0,,,,,990,,990.0,Russia
+MCS2025,Diamond (industrial),South Africa ,"Mine production, industrial diamond",million carats,4.0,4.0,,,,,85,,85.0,South Africa
+MCS2025,Diamond (industrial),Zimbabwe,"Mine production, industrial diamond",million carats,4.0,4.0,,,,,,,,Zimbabwe
+MCS2025,Diatomite,United States,"Mine production, estimated",thousand metric tons,849.0,880.0,,,,,250000,,250000.0,United States
+MCS2025,Diatomite,Argentina,"Mine production, estimated",thousand metric tons,100.0,100.0,,,,,,,,Argentina
+MCS2025,Diatomite,China,"Mine production, estimated",thousand metric tons,370.0,370.0,,,,,120000,,120000.0,China
+MCS2025,Diatomite,Czechia,"Mine production, estimated",thousand metric tons,44.0,40.0,,,,,,,,Czechia
+MCS2025,Diatomite,Denmark (processed),"Mine production, estimated",thousand metric tons,530.0,530.0,,,,,,,,Denmark
+MCS2025,Diatomite,France,"Mine production, estimated",thousand metric tons,250.0,250.0,,,,,1000,,1000.0,France
+MCS2025,Diatomite,Germany,"Mine production, estimated",thousand metric tons,50.0,50.0,,,,,,,,Germany
+MCS2025,Diatomite,"Korea, Republic of","Mine production, estimated",thousand metric tons,50.0,50.0,,,,,2200,,2200.0,"Korea, Republic of"
+MCS2025,Diatomite,Mexico,"Mine production, estimated",thousand metric tons,100.0,100.0,,,,,,,,Mexico
+MCS2025,Diatomite,Peru,"Mine production, estimated",thousand metric tons,100.0,100.0,,,,,,,,Peru
+MCS2025,Diatomite,Mozambique,"Mine production, estimated",thousand metric tons,50.0,50.0,,,,,,,,Mozambique
+MCS2025,Diatomite,Russia ,"Mine production, estimated",thousand metric tons,50.0,50.0,,,,,,,,Russia
+MCS2025,Diatomite,Spain,"Mine production, estimated",thousand metric tons,50.0,50.0,,,,,57000,,57000.0,Spain
+MCS2025,Diatomite,Turkey,"Mine production, estimated",thousand metric tons,240.0,240.0,,,,,44000,,44000.0,Turkey
+MCS2025,Feldspar,United States,"Mine production, estimated",thousand metric tons,450.0,450.0,,,,,,,,United States
+MCS2025,Feldspar,"Brazil (beneficiated, marketable)","Mine production, estimated",thousand metric tons,622.0,420.0,reported,,,,150000,,150000.0,Brazil
+MCS2025,Feldspar,China,"Mine production, estimated",thousand metric tons,2500.0,2500.0,,,,,730000,,730000.0,China
+MCS2025,Feldspar,India,"Mine production, estimated",thousand metric tons,6000.0,6000.0,,,,,320000,,320000.0,India
+MCS2025,Feldspar,Iran,"Mine production, estimated",thousand metric tons,3100.0,3100.0,,,,,130000,,130000.0,Iran
+MCS2025,Feldspar,Italy,"Mine production, estimated",thousand metric tons,2200.0,2200.0,,,,,,,,Italy
+MCS2025,Feldspar,"Korea, Republic of","Mine production, estimated",thousand metric tons,991.0,990.0,reported,,,,200000,,200000.0,"Korea, Republic of"
+MCS2025,Feldspar,Morocco,"Mine production, estimated",thousand metric tons,590.0,590.0,,,,,,,,Morocco
+MCS2025,Feldspar,Russia,"Mine production, estimated",thousand metric tons,650.0,650.0,,,,,,,,Russia
+MCS2025,Feldspar,Saudi Arabia,"Mine production, estimated",thousand metric tons,650.0,650.0,,,,,,,,Saudi Arabia
+MCS2025,Feldspar,Spain (includes pegmatites),"Mine production, estimated",thousand metric tons,990.0,990.0,,,,,,,,Spain
+MCS2025,Feldspar,Thailand,"Mine production, estimated",thousand metric tons,2000.0,2000.0,,,,,45000,,45000.0,Thailand
+MCS2025,Feldspar,Turkey,"Mine production, estimated",thousand metric tons,9480.0,9500.0,reported,,,,720000,,720000.0,Turkey
+MCS2025,Fluorspar,United States,"Mine production, estimated",thousand metric tons,,,,,,,,,,United States
+MCS2025,Fluorspar,China,"Mine production, estimated",thousand metric tons,6000.0,5900.0,,,,,86000,,86000.0,China
+MCS2025,Fluorspar,Germany,"Mine production, estimated",thousand metric tons,100.0,100.0,,,,,,,,Germany
+MCS2025,Fluorspar,Iran,"Mine production, estimated",thousand metric tons,121.0,120.0,,,,,7600,,7600.0,Iran
+MCS2025,Fluorspar,Mexico,"Mine production, estimated",thousand metric tons,1160.0,1200.0,Reported,,,,68000,,68000.0,Mexico
+MCS2025,Fluorspar,Mongolia,"Mine production, estimated",thousand metric tons,1210.0,1200.0,,,,,34000,,34000.0,Mongolia
+MCS2025,Fluorspar,Pakistan,"Mine production, estimated",thousand metric tons,55.0,52.0,,,,,,,,Pakistan
+MCS2025,Fluorspar,South Africa ,"Mine production, estimated",thousand metric tons,345.0,380.0,,,,,41000,,41000.0,South Africa
+MCS2025,Fluorspar,Spain,"Mine production, estimated",thousand metric tons,165.0,160.0,,,,,15000,,15000.0,Spain
+MCS2025,Fluorspar,Thailand,"Mine production, estimated",thousand metric tons,48.0,76.0,,,,,3600,,3600.0,Thailand
+MCS2025,Fluorspar,Vietnam,"Mine production, estimated",thousand metric tons,146.0,110.0,reported,,,,16000,,16000.0,Vietnam
+MCS2025,Gallium,United States,Primary production,kilograms,,,,,,,,,,United States
+MCS2025,Gallium,China,Primary production,kilograms,621000.0,750000.0,"Estimated from China Nonferrous Metals Industry Association article. Source: Argus Media Group, Argus Non-Ferrous Markets. ",,1000000.0,,,,,China
+MCS2025,Gallium,Japan,Primary production,kilograms,3000.0,3000.0,,,10000.0,,,,,Japan
+MCS2025,Gallium,"Korea, Republic of",Primary production,kilograms,3000.0,3000.0,,,16000.0,,,,,"Korea, Republic of"
+MCS2025,Gallium,Russia ,Primary production,kilograms,6000.0,6000.0,,,10000.0,,,,,Russia
+MCS2025,Garnet (industrial),United States,"Mine production, estimated",metric tons,71900.0,80000.0,,,,,5000000,,5000000.0,United States
+MCS2025,Garnet (industrial),Australia,"Mine production, estimated",metric tons,390000.0,390000.0,,,,,,Moderate to Large,,Australia
+MCS2025,Garnet (industrial),China,"Mine production, estimated",metric tons,310000.0,310000.0,,,,,37000000,,37000000.0,China
+MCS2025,Garnet (industrial),Czechia,"Mine production, estimated",metric tons,3000.0,3000.0,,,,,,,,Czechia
+MCS2025,Garnet (industrial),India,"Mine production, estimated",metric tons,15000.0,15000.0,,,,,8600000,,8600000.0,India
+MCS2025,Garnet (industrial),Pakistan,"Mine production, estimated",metric tons,1900.0,1900.0,,,,,,,,Pakistan
+MCS2025,Garnet (industrial),South Africa ,"Mine production, estimated",metric tons,180000.0,180000.0,,,,,880000,,880000.0,South Africa
+MCS2025,Gemstones,United States,"Mine production, thousand carats of gem-quality diamond",thousand carats,,,,,,,,,,United States
+MCS2025,Gemstones,Angola,"Mine production, thousand carats of gem-quality diamond",thousand carats,8780.0,8800.0,,,,,150000,,150000.0,Angola
+MCS2025,Gemstones,Botswana,"Mine production, thousand carats of gem-quality diamond",thousand carats,17600.0,18000.0,,,,,250000,,250000.0,Botswana
+MCS2025,Gemstones,Canada ,"Mine production, thousand carats of gem-quality diamond",thousand carats,16000.0,16000.0,,,,,110000,,110000.0,Canada
+MCS2025,Gemstones,Congo (Kinshasa),"Mine production, thousand carats of gem-quality diamond",thousand carats,1670.0,1700.0,,,,,150000,,150000.0,Democratic Republic of the Congo
+MCS2025,Gemstones,Ghana,"Mine production, thousand carats of gem-quality diamond",thousand carats,203.0,200.0,,,,,,,,Ghana
+MCS2025,Gemstones,Guinea,"Mine production, thousand carats of gem-quality diamond",thousand carats,96.0,96.0,,,,,,,,Guinea
+MCS2025,Gemstones,Lesotho,"Mine production, thousand carats of gem-quality diamond",thousand carats,472.0,470.0,,,,,,,,Lesotho
+MCS2025,Gemstones,Namibia,"Mine production, thousand carats of gem-quality diamond",thousand carats,2390.0,2400.0,,,,,,,,Namibia
+MCS2025,Gemstones,Russia ,"Mine production, thousand carats of gem-quality diamond",thousand carats,20900.0,21000.0,,,,,990000,,990000.0,Russia
+MCS2025,Gemstones,Sierra Leone,"Mine production, thousand carats of gem-quality diamond",thousand carats,420.0,420.0,,,,,,,,Sierra Leone
+MCS2025,Gemstones,South Africa ,"Mine production, thousand carats of gem-quality diamond",thousand carats,2360.0,2400.0,,,,,85000,,85000.0,South Africa
+MCS2025,Gemstones,Tanzania,"Mine production, thousand carats of gem-quality diamond",thousand carats,162.0,160.0,,,,,,,,Tanzania
+MCS2025,Gemstones,Zimbabwe,"Mine production, thousand carats of gem-quality diamond",thousand carats,491.0,490.0,,,,,,,,Zimbabwe
+MCS2025,Germanium,United States,Primary and secondary refinery production,kilograms,,,,,,,,,,United States
+MCS2025,Germanium,Belgium,Primary and secondary refinery production,kilograms,,,,,,,,,,Belgium
+MCS2025,Germanium,Canada ,Primary and secondary refinery production,kilograms,,,,,,,,,,Canada
+MCS2025,Germanium,China,Primary and secondary refinery production,kilograms,,,,,,,,,,China
+MCS2025,Germanium,Germany,Primary and secondary refinery production,kilograms,,,,,,,,,,Germany
+MCS2025,Germanium,Russia ,Primary and secondary refinery production,kilograms,,,,,,,,,,Russia
+MCS2025,Gold,United States,"mine production, gold content",metric tons,170.0,160.0,,,,,3000,,3000.0,United States
+MCS2025,Gold,Australia,"mine production, gold content",metric tons,296.0,290.0,,,,,12000,"For Australia, Joint Ore Reserves Committee-compliant or equivalent reserves were 4,600 tons.",12000.0,Australia
+MCS2025,Gold,Brazil,"mine production, gold content",metric tons,71.0,70.0,,,,,2400,,2400.0,Brazil
+MCS2025,Gold,Burkina Faso,"mine production, gold content",metric tons,57.0,60.0,,,,,,,,Burkina Faso
+MCS2025,Gold,Canada ,"mine production, gold content",metric tons,198.0,200.0,,,,,3200,,3200.0,Canada
+MCS2025,Gold,China,"mine production, gold content",metric tons,375.0,380.0,,,,,3100,,3100.0,China
+MCS2025,Gold,Colombia,"mine production, gold content",metric tons,61.0,60.0,,,,,700,,700.0,Colombia
+MCS2025,Gold,Ghana,"mine production, gold content",metric tons,126.0,130.0,,,,,1000,,1000.0,Ghana
+MCS2025,Gold,Indonesia,"mine production, gold content",metric tons,100.0,100.0,estimated 2023,,,,3600,,3600.0,Indonesia
+MCS2025,Gold,Kazakhstan,"mine production, gold content",metric tons,133.0,130.0,,,,,2300,,2300.0,Kazakhstan
+MCS2025,Gold,Mali,"mine production, gold content",metric tons,67.0,70.0,estimated 2023,,,,800,,800.0,Mali
+MCS2025,Gold,Mexico,"mine production, gold content",metric tons,127.0,130.0,,,,,1400,,1400.0,Mexico
+MCS2025,Gold,Peru,"mine production, gold content",metric tons,100.0,100.0,,,,,2500,,2500.0,Peru
+MCS2025,Gold,Russia ,"mine production, gold content",metric tons,313.0,310.0,,,,,12000,,12000.0,Russia
+MCS2025,Gold,South Africa ,"mine production, gold content",metric tons,104.0,100.0,,,,,5000,,5000.0,South Africa
+MCS2025,Gold,Tanzania,"mine production, gold content",metric tons,55.0,60.0,,,,,400,,400.0,Tanzania
+MCS2025,Gold,Uzbekistan,"mine production, gold content",metric tons,120.0,120.0,,,,,1800,,1800.0,Uzbekistan
+MCS2025,Graphite,United States,Mine production,metric tons,,,,,,,,Included in World total,,United States
+MCS2025,Graphite,Austria,Mine production,metric tons,500.0,500.0,,,,,,Included in World total,,Austria
+MCS2025,Graphite,Brazil,Mine production,metric tons,66300.0,68000.0,,,,,74000000,,74000000.0,Brazil
+MCS2025,Graphite,Canada ,Mine production,metric tons,5470.0,20000.0,,,,,5900000,,5900000.0,Canada
+MCS2025,Graphite,China,Mine production,metric tons,1210000.0,1270000.0,,,,,81000000,,81000000.0,China
+MCS2025,Graphite,Germany,Mine production,metric tons,180.0,170.0,,,,,,Included in World total,,Germany
+MCS2025,Graphite,India,Mine production,metric tons,25600.0,27800.0,,,,,8600000,,8600000.0,India
+MCS2025,Graphite,"Korea, North",Mine production,metric tons,8100.0,8100.0,estimated 2023,,,,2000000,,2000000.0,"Korea, North"
+MCS2025,Graphite,"Korea, Republic of",Mine production,metric tons,9620.0,9600.0,,,,,1800000,,1800000.0,"Korea, Republic of"
+MCS2025,Graphite,Madagascar,Mine production,metric tons,63000.0,89000.0,estimated 2023,,,,27000000,,27000000.0,Madagascar
+MCS2025,Graphite,Mexico,Mine production,metric tons,1300.0,900.0,,,,,3100000,,3100000.0,Mexico
+MCS2025,Graphite,Mozambique,Mine production,metric tons,98000.0,75000.0,estimated 2023,,,,25000000,,25000000.0,Mozambique
+MCS2025,Graphite,Norway,Mine production,metric tons,6480.0,7000.0,,,,,600000,,600000.0,Norway
+MCS2025,Graphite,Russia ,Mine production,metric tons,15000.0,20000.0,estimated 2023,,,,14000000,,14000000.0,Russia
+MCS2025,Graphite,Sri Lanka,Mine production,metric tons,3000.0,3300.0,,,,,1500000,,1500000.0,Sri Lanka
+MCS2025,Graphite,Tanzania,Mine production,metric tons,13200.0,25000.0,estimated 2023,,,,18000000,,18000000.0,Tanzania
+MCS2025,Graphite,Turkey,Mine production,metric tons,2800.0,3100.0,,,,,6900000,,6900000.0,Turkey
+MCS2025,Graphite,Ukraine,Mine production,metric tons,1670.0,1200.0,,,,,,Included in World total,,Ukraine
+MCS2025,Graphite,Vietnam,Mine production,metric tons,2500.0,2000.0,,,,,9700000,,9700000.0,Vietnam
+MCS2025,Gypsum,United States,"Mine production, estimated",thousand metric tons,21500.0,22000.0,reported,,,,700000,,700000.0,United States
+MCS2025,Gypsum,Algeria,"Mine production, estimated",thousand metric tons,2500.0,2500.0,,,,,,,,Algeria
+MCS2025,Gypsum,Brazil,"Mine production, estimated",thousand metric tons,3930.0,3600.0,reported,,,,450000,,450000.0,Brazil
+MCS2025,Gypsum,Canada ,"Mine production, estimated",thousand metric tons,2400.0,2400.0,,,,,450000,,450000.0,Canada
+MCS2025,Gypsum,China,"Mine production, estimated",thousand metric tons,12000.0,12000.0,,,,,1800000,,1800000.0,China
+MCS2025,Gypsum,France,"Mine production, estimated",thousand metric tons,2400.0,2400.0,,,,,350000,,350000.0,France
+MCS2025,Gypsum,Germany,"Mine production, estimated",thousand metric tons,4900.0,4900.0,,,,,,,,Germany
+MCS2025,Gypsum,India,"Mine production, estimated",thousand metric tons,4300.0,4300.0,,,,,37000,,37000.0,India
+MCS2025,Gypsum,Iran,"Mine production, estimated",thousand metric tons,16000.0,16000.0,,,,,750000,,750000.0,Iran
+MCS2025,Gypsum,Japan,"Mine production, estimated",thousand metric tons,4300.0,4300.0,,,,,,,,Japan
+MCS2025,Gypsum,Mexico,"Mine production, estimated",thousand metric tons,5400.0,5400.0,,,,,,,,Mexico
+MCS2025,Gypsum,Oman,"Mine production, estimated",thousand metric tons,13900.0,14000.0,reported,,,,,,,Oman
+MCS2025,Gypsum,Pakistan,"Mine production, estimated",thousand metric tons,2100.0,2100.0,,,,,760000,,760000.0,Pakistan
+MCS2025,Gypsum,Russia ,"Mine production, estimated",thousand metric tons,4100.0,4100.0,,,,,,,,Russia
+MCS2025,Gypsum,Saudi Arabia,"Mine production, estimated",thousand metric tons,3800.0,3800.0,,,,,,,,Saudi Arabia
+MCS2025,Gypsum,Spain,"Mine production, estimated",thousand metric tons,11000.0,11000.0,,,,,,,,Spain
+MCS2025,Gypsum,Thailand,"Mine production, estimated",thousand metric tons,9800.0,9800.0,,,,,910000,,910000.0,Thailand
+MCS2025,Gypsum,Turkey,"Mine production, estimated",thousand metric tons,10300.0,10000.0,reported,,,,200000,,200000.0,Turkey
+MCS2025,Gypsum,Uzbekistan,"Mine production, estimated",thousand metric tons,2000.0,2000.0,,,,,,,,Uzbekistan
+MCS2025,Helium,United States (extracted from natural gas),"Production, helium gas content",million cubic meters,64.0,68.0,,,,,8500,,8500.0,United States
+MCS2025,Helium,United States (from Cliffside Field),"Production, helium gas content",million cubic meters,18.0,13.0,,,,,50,,50.0,United States
+MCS2025,Helium,Algeria,"Production, helium gas content",million cubic meters,9.0,11.0,,,,,1800,,1800.0,Algeria
+MCS2025,Helium,Australia,"Production, helium gas content",million cubic meters,1.0,,estimated 2023,,,,,,,Australia
+MCS2025,Helium,Canada ,"Production, helium gas content",million cubic meters,5.0,6.0,,,,,,,,Canada
+MCS2025,Helium,China,"Production, helium gas content",million cubic meters,2.0,3.0,,,,,,,,China
+MCS2025,Helium,Poland,"Production, helium gas content",million cubic meters,3.0,3.0, ,,,,24,,24.0,Poland
+MCS2025,Helium,Qatar,"Production, helium gas content",million cubic meters,66.0,64.0,estimated 2023,,,,,Large,,Qatar
+MCS2025,Helium,Russia ,"Production, helium gas content",million cubic meters,8.0,17.0,estimated 2023,,,,1700,,1700.0,Russia
+MCS2025,Helium,South Africa ,"Production, helium gas content",million cubic meters,,,Less than 1/2 unit,,,,,,,South Africa
+MCS2025,Indium,United States,Refinery production,metric tons,,,,,,,,,,United States
+MCS2025,Indium,Belgium,Refinery production,metric tons,19.0,10.0,,,,,50,,50.0,Belgium
+MCS2025,Indium,Canada ,Refinery production,metric tons,40.0,35.0,,,,,70,,70.0,Canada
+MCS2025,Indium,China,Refinery production,metric tons,690.0,760.0,,,,,1100,,1100.0,China
+MCS2025,Indium,France,Refinery production,metric tons,21.0,21.0,,,,,70,,70.0,France
+MCS2025,Indium,Japan,Refinery production,metric tons,65.0,60.0,,,,,70,,70.0,Japan
+MCS2025,Indium,"Korea, Republic of",Refinery production,metric tons,180.0,180.0,,,,,310,,310.0,"Korea, Republic of"
+MCS2025,Indium,Peru,Refinery production,metric tons,,,,,,,50,,50.0,Peru
+MCS2025,Indium,Russia ,Refinery production,metric tons,5.0,10.0,,,,,15,,15.0,Russia
+MCS2025,Indium,Uzbekistan,Refinery production,metric tons,1.0,1.0,,,,,1,,1.0,Uzbekistan
+MCS2025,Iodine,United States,"Mine production, elemental iodine",metric tons,,,W for 23-24,,,,250000,,250000.0,United States
+MCS2025,Iodine,Azerbaijan,"Mine production, elemental iodine",metric tons,200.0,210.0,,,,,170000,,170000.0,Azerbaijan
+MCS2025,Iodine,Chile,"Mine production, elemental iodine",metric tons,21000.0,22000.0,,,,,610000,,610000.0,Chile
+MCS2025,Iodine,Indonesia,"Mine production, elemental iodine",metric tons,30.0,30.0,,,,,,,,Indonesia
+MCS2025,Iodine,Iran,"Mine production, elemental iodine",metric tons,700.0,700.0,,,,,40000,,40000.0,Iran
+MCS2025,Iodine,Japan,"Mine production, elemental iodine",metric tons,9900.0,9300.0,,,,,4900000,,4900000.0,Japan
+MCS2025,Iodine,Russia ,"Mine production, elemental iodine",metric tons,3.0,3.0,,,,,120000,,120000.0,Russia
+MCS2025,Iodine,Turkmenistan,"Mine production, elemental iodine",metric tons,770.0,770.0,,,,,70000,,70000.0,Turkmenistan
+MCS2025,Iron and Steel,United States,Pig iron,million metric tons,23.0,22.0,,,,,,,,United States
+MCS2025,Iron and Steel,Brazil,Pig iron,million metric tons,26.0,27.0,,,,,,,,Brazil
+MCS2025,Iron and Steel,Canada ,Pig iron,million metric tons,6.0,6.0,,,,,,,,Canada
+MCS2025,Iron and Steel,China,Pig iron,million metric tons,871.0,840.0,,,,,,,,China
+MCS2025,Iron and Steel,Germany,Pig iron,million metric tons,24.0,23.0,,,,,,,,Germany
+MCS2025,Iron and Steel,India,Pig iron,million metric tons,86.0,93.0,,,,,,,,India
+MCS2025,Iron and Steel,Iran,Pig iron,million metric tons,4.0,4.0,,,,,,,,Iran
+MCS2025,Iron and Steel,Italy,Pig iron,million metric tons,3.0,3.0,,,,,,,,Italy
+MCS2025,Iron and Steel,Japan,Pig iron,million metric tons,63.0,62.0,,,,,,,,Japan
+MCS2025,Iron and Steel,"Korea, Republic of",Pig iron,million metric tons,45.0,44.0,,,,,,,,"Korea, Republic of"
+MCS2025,Iron and Steel,Mexico,Pig iron,million metric tons,1.0,1.0,,,,,,,,Mexico
+MCS2025,Iron and Steel,Russia ,Pig iron,million metric tons,55.0,54.0,,,,,,,,Russia
+MCS2025,Iron and Steel,Taiwan,Pig iron,million metric tons,12.0,12.0,,,,,,,,Taiwan
+MCS2025,Iron and Steel,Turkey,Pig iron,million metric tons,9.0,8.0,,,,,,,,Turkey
+MCS2025,Iron and Steel,Ukraine,Pig iron,million metric tons,6.0,6.0,,,,,,,,Ukraine
+MCS2025,Iron and Steel,Vietnam,Pig iron,million metric tons,13.0,13.0,,,,,,,,Vietnam
+MCS2025,Iron and Steel,United States,Raw steel,million metric tons,81.0,81.0,,,,,,,,United States
+MCS2025,Iron and Steel,Brazil,Raw steel,million metric tons,32.0,34.0,,,,,,,,Brazil
+MCS2025,Iron and Steel,Canada ,Raw steel,million metric tons,12.0,12.0,,,,,,,,Canada
+MCS2025,Iron and Steel,China,Raw steel,million metric tons,1020.0,990.0,,,,,,,,China
+MCS2025,Iron and Steel,Germany,Raw steel,million metric tons,35.0,35.0,,,,,,,,Germany
+MCS2025,Iron and Steel,India,Raw steel,million metric tons,141.0,150.0,,,,,,,,India
+MCS2025,Iron and Steel,Iran,Raw steel,million metric tons,31.0,33.0,,,,,,,,Iran
+MCS2025,Iron and Steel,Italy,Raw steel,million metric tons,21.0,21.0,,,,,,,,Italy
+MCS2025,Iron and Steel,Japan,Raw steel,million metric tons,87.0,85.0,,,,,,,,Japan
+MCS2025,Iron and Steel,"Korea, Republic of",Raw steel,million metric tons,67.0,64.0,,,,,,,,"Korea, Republic of"
+MCS2025,Iron and Steel,Mexico,Raw steel,million metric tons,16.0,16.0,,,,,,,,Mexico
+MCS2025,Iron and Steel,Russia ,Raw steel,million metric tons,76.0,75.0,,,,,,,,Russia
+MCS2025,Iron and Steel,Taiwan,Raw steel,million metric tons,19.0,19.0,,,,,,,,Taiwan
+MCS2025,Iron and Steel,Turkey,Raw steel,million metric tons,34.0,32.0,,,,,,,,Turkey
+MCS2025,Iron and Steel,Ukraine,Raw steel,million metric tons,6.0,6.0,,,,,,,,Ukraine
+MCS2025,Iron and Steel,Vietnam,Raw steel,million metric tons,19.0,19.0,,,,,,,,Vietnam
+MCS2025,Iron Ore,United States,"Mine production, usable ore",thousand metric tons,44700.0,48000.0,,,,,3600,"Crude Ore, million metric tons",3600.0,United States
+MCS2025,Iron Ore,Australia,"Mine production, usable ore",thousand metric tons,953000.0,930000.0,,,,,58000,"Crude Ore, million metric tons",58000.0,Australia
+MCS2025,Iron Ore,Brazil,"Mine production, usable ore",thousand metric tons,445000.0,440000.0,,,,,34000,"Crude Ore, million metric tons",34000.0,Brazil
+MCS2025,Iron Ore,Canada ,"Mine production, usable ore",thousand metric tons,59400.0,54000.0,,,,,6000,"Crude Ore, million metric tons",6000.0,Canada
+MCS2025,Iron Ore,Chile,"Mine production, usable ore",thousand metric tons,18100.0,18000.0,,,,,,NA  ,,Chile
+MCS2025,Iron Ore,China,"Mine production, usable ore",thousand metric tons,278000.0,270000.0,,,,,20000,"Crude Ore, million metric tons",20000.0,China
+MCS2025,Iron Ore,India,"Mine production, usable ore",thousand metric tons,278000.0,270000.0,,,,,5500,"Crude Ore, million metric tons",5500.0,India
+MCS2025,Iron Ore,Iran,"Mine production, usable ore",thousand metric tons,85400.0,90000.0,estimated 2023,,,,3800,"Crude Ore, million metric tons",3800.0,Iran
+MCS2025,Iron Ore,Kazakhstan,"Mine production, usable ore",thousand metric tons,28900.0,30000.0,,,,,2500,"Crude Ore, million metric tons",2500.0,Kazakhstan
+MCS2025,Iron Ore,Mauritania,"Mine production, usable ore",thousand metric tons,14100.0,15000.0,,,,,,NA  ,,Mauritania
+MCS2025,Iron Ore,Mexico,"Mine production, usable ore",thousand metric tons,8500.0,8000.0,,,,,,NA  ,,Mexico
+MCS2025,Iron Ore,Peru,"Mine production, usable ore",thousand metric tons,20900.0,21000.0,,,,,2600,"Crude Ore, million metric tons",2600.0,Peru
+MCS2025,Iron Ore,Russia ,"Mine production, usable ore",thousand metric tons,90900.0,91000.0,,,,,35000,"Crude Ore, million metric tons",35000.0,Russia
+MCS2025,Iron Ore,South Africa ,"Mine production, usable ore",thousand metric tons,63200.0,66000.0,,,,,930,"Crude Ore, million metric tons",930.0,South Africa
+MCS2025,Iron Ore,Sweden,"Mine production, usable ore",thousand metric tons,28900.0,28000.0,,,,,1300,"Crude Ore, million metric tons",1300.0,Sweden
+MCS2025,Iron Ore,Turkey,"Mine production, usable ore",thousand metric tons,16800.0,18000.0,,,,,150,"Crude Ore, million metric tons",150.0,Turkey
+MCS2025,Iron Ore,Ukraine,"Mine production, usable ore",thousand metric tons,41700.0,42000.0,estimated 2023,,,,6500,"Crude Ore, million metric tons",6500.0,Ukraine
+MCS2025,Iron Ore,United States,"Mine production, iron content",thousand metric tons,28200.0,30000.0,,,,,2300,"Iron Content, million metric tons",2300.0,United States
+MCS2025,Iron Ore,Australia,"Mine production, iron content",thousand metric tons,589000.0,580000.0,,,,,27000,"Iron Content, million metric tons",27000.0,Australia
+MCS2025,Iron Ore,Brazil,"Mine production, iron content",thousand metric tons,280000.0,280000.0,,,,,15000,"Iron Content, million metric tons",15000.0,Brazil
+MCS2025,Iron Ore,Canada ,"Mine production, iron content",thousand metric tons,35700.0,32000.0,,,,,2300,"Iron Content, million metric tons",2300.0,Canada
+MCS2025,Iron Ore,Chile,"Mine production, iron content",thousand metric tons,11400.0,11000.0,,,,,,NA  ,,Chile
+MCS2025,Iron Ore,China,"Mine production, iron content",thousand metric tons,174000.0,170000.0,,,,,6900,"Iron Content, million metric tons",6900.0,China
+MCS2025,Iron Ore,India,"Mine production, iron content",thousand metric tons,172000.0,170000.0,,,,,3400,"Iron Content, million metric tons",3400.0,India
+MCS2025,Iron Ore,Iran,"Mine production, iron content",thousand metric tons,55900.0,59000.0,estimated 2023,,,,1500,"Iron Content, million metric tons",1500.0,Iran
+MCS2025,Iron Ore,Kazakhstan,"Mine production, iron content",thousand metric tons,8890.0,9200.0,,,,,900,"Iron Content, million metric tons",900.0,Kazakhstan
+MCS2025,Iron Ore,Mauritania,"Mine production, iron content",thousand metric tons,8790.0,9400.0,,,,,,NA  ,,Mauritania
+MCS2025,Iron Ore,Mexico,"Mine production, iron content",thousand metric tons,5350.0,5000.0,,,,,,NA  ,,Mexico
+MCS2025,Iron Ore,Peru,"Mine production, iron content",thousand metric tons,14100.0,14000.0,,,,,1500,"Iron Content, million metric tons",1500.0,Peru
+MCS2025,Iron Ore,Russia ,"Mine production, iron content",thousand metric tons,53300.0,53000.0,,,,,14000,"Iron Content, million metric tons",14000.0,Russia
+MCS2025,Iron Ore,South Africa ,"Mine production, iron content",thousand metric tons,40200.0,42000.0,,,,,590,"Iron Content, million metric tons",590.0,South Africa
+MCS2025,Iron Ore,Sweden,"Mine production, iron content",thousand metric tons,20400.0,20000.0,,,,,600,"Iron Content, million metric tons",600.0,Sweden
+MCS2025,Iron Ore,Turkey,"Mine production, iron content",thousand metric tons,10100.0,11000.0,,,,,99,"Iron Content, million metric tons",99.0,Turkey
+MCS2025,Iron Ore,Ukraine,"Mine production, iron content",thousand metric tons,26100.0,26000.0,estimated 2023,,,,2300,"Iron Content, million metric tons",2300.0,Ukraine
+MCS2025,Iron oxide pigments,United States,Mine production,metric tons,,,W for 23-24,,,,,Moderate  ,,United States
+MCS2025,Iron oxide pigments,Cyprus,Mine production,metric tons,5000.0,20000.0,,,,,,Moderate  ,,Cyprus
+MCS2025,Iron oxide pigments,France,Mine production,metric tons,16000.0,17000.0,,,,,,NA  ,,France
+MCS2025,Iron oxide pigments,Germany,Mine production,metric tons,240000.0,250000.0,,,,,,Moderate  ,,Germany
+MCS2025,Iron oxide pigments,India,Mine production,metric tons,3200000.0,3300000.0,,,,,37000000,,37000000.0,India
+MCS2025,Iron oxide pigments,Italy,Mine production,metric tons,30000.0,31000.0,,,,,,NA  ,,Italy
+MCS2025,Iron oxide pigments,Pakistan,Mine production,metric tons,95000.0,100000.0,,,,,,Large,,Pakistan
+MCS2025,Iron oxide pigments,Spain,Mine production,metric tons,16000.0,17000.0,,,,,,Large,,Spain
+MCS2025,Kyanite and Related Minerals,United States (kyanite),Mine production,metric tons,82400.0,80000.0,,,,,,Large,,United States
+MCS2025,Kyanite and Related Minerals,"China (andalusite, crude ore)",Mine production,metric tons,100000.0,100000.0,,,,,5000000,,5000000.0,China
+MCS2025,Kyanite and Related Minerals,France (andalusite),Mine production,metric tons,65000.0,60000.0,,,,,,,,France
+MCS2025,Kyanite and Related Minerals,India (kyanite and sillimanite),Mine production,metric tons,3560.0,3600.0,,,,,7200000,,7200000.0,India
+MCS2025,Kyanite and Related Minerals,Peru (andalusite),Mine production,metric tons,40000.0,40000.0,,,,,,,,Peru
+MCS2025,Kyanite and Related Minerals,South Africa (andalusite),Mine production,metric tons,148000.0,150000.0,,,,,,,,South Africa
+MCS2025,Lead,United States,"Mine production, lead content",thousand metric tons,270.0,300.0,,,,,4600,,4600.0,United States
+MCS2025,Lead,Australia,"Mine production, lead content",thousand metric tons,430.0,430.0,,,,,35000,"For Australia, Joint Ore Reserves Committee-compliant or equivalent reserves were 10 million tons.",35000.0,Australia
+MCS2025,Lead,Bolivia,"Mine production, lead content",thousand metric tons,60.0,60.0,,,,,1600,,1600.0,Bolivia
+MCS2025,Lead,China,"Mine production, lead content",thousand metric tons,1960.0,1900.0,,,,,22000,,22000.0,China
+MCS2025,Lead,India,"Mine production, lead content",thousand metric tons,226.0,220.0,,,,,1900,,1900.0,India
+MCS2025,Lead,Iran,"Mine production, lead content",thousand metric tons,60.0,60.0,estimated 2023,,,,2000,,2000.0,Iran
+MCS2025,Lead,Mexico,"Mine production, lead content",thousand metric tons,183.0,180.0,,,,,5600,,5600.0,Mexico
+MCS2025,Lead,Peru,"Mine production, lead content",thousand metric tons,273.0,270.0,,,,,5000,,5000.0,Peru
+MCS2025,Lead,Russia ,"Mine production, lead content",thousand metric tons,218.0,220.0,estimated 2023,,,,8900,,8900.0,Russia
+MCS2025,Lead,Sweden,"Mine production, lead content",thousand metric tons,72.0,70.0,,,,,1700,,1700.0,Sweden
+MCS2025,Lead,Tajikistan,"Mine production, lead content",thousand metric tons,39.0,40.0,estimated 2023,,,,,,,Tajikistan
+MCS2025,Lead,Turkey,"Mine production, lead content",thousand metric tons,68.0,70.0,estimated 2023,,,,1600,,1600.0,Turkey
+MCS2025,Lime,United States,"Plant production, lime",thousand metric tons,16000.0,16000.0,,,,,,,,United States
+MCS2025,Lime,Australia,"Plant production, lime",thousand metric tons,1970.0,2000.0,,,,,,,,Australia
+MCS2025,Lime,Belgium,"Plant production, lime",thousand metric tons,1040.0,1000.0,,,,,,,,Belgium
+MCS2025,Lime,Brazil,"Plant production, lime",thousand metric tons,8100.0,8100.0,,,,,,,,Brazil
+MCS2025,Lime,Bulgaria,"Plant production, lime",thousand metric tons,1310.0,1300.0,,,,,,,,Bulgaria
+MCS2025,Lime,Canada (shipments),"Plant production, lime",thousand metric tons,1920.0,1900.0,,,,,,,,Canada
+MCS2025,Lime,China,"Plant production, lime",thousand metric tons,310000.0,310000.0,,,,,,,,China
+MCS2025,Lime,France,"Plant production, lime",thousand metric tons,3500.0,3500.0,,,,,,,,France
+MCS2025,Lime,Germany,"Plant production, lime",thousand metric tons,5700.0,5700.0,,,,,,,,Germany
+MCS2025,Lime,India,"Plant production, lime",thousand metric tons,17000.0,17000.0,,,,,,,,India
+MCS2025,Lime,Iran,"Plant production, lime",thousand metric tons,4000.0,4000.0,,,,,,,,Iran
+MCS2025,Lime,Italy,"Plant production, lime",thousand metric tons,2400.0,2400.0,,,,,,,,Italy
+MCS2025,Lime,Japan (quicklime only),"Plant production, lime",thousand metric tons,6010.0,6000.0,,,,,,,,Japan
+MCS2025,Lime,"Korea, Republic of","Plant production, lime",thousand metric tons,5100.0,5100.0,,,,,,,,"Korea, Republic of"
+MCS2025,Lime,Malaysia,"Plant production, lime",thousand metric tons,1500.0,1500.0,,,,,,,,Malaysia
+MCS2025,Lime,Poland (hydrated and quicklime),"Plant production, lime",thousand metric tons,1280.0,1300.0,,,,,,,,Poland
+MCS2025,Lime,Russia (industrial and construction),"Plant production, lime",thousand metric tons,11400.0,11000.0,,,,,,,,Russia
+MCS2025,Lime,South Africa ,"Plant production, lime",thousand metric tons,1100.0,1100.0,,,,,,,,South Africa
+MCS2025,Lime,Spain,"Plant production, lime",thousand metric tons,1700.0,1700.0,,,,,,,,Spain
+MCS2025,Lime,Turkey,"Plant production, lime",thousand metric tons,4060.0,4100.0,,,,,,,,Turkey
+MCS2025,Lime,Ukraine,"Plant production, lime",thousand metric tons,1000.0,1000.0,,,,,,,,Ukraine
+MCS2025,Lime,United Kingdom,"Plant production, lime",thousand metric tons,1400.0,1400.0,,,,,,,,United Kingdom
+MCS2025,Lithium,United States,"Mine production, lithium content",metric tons,,,W for 23-24,,,,1800000,,1800000.0,United States
+MCS2025,Lithium,Argentina,"Mine production, lithium content",metric tons,8630.0,18000.0,,,,,4000000,,4000000.0,Argentina
+MCS2025,Lithium,Australia,"Mine production, lithium content",metric tons,91700.0,88000.0,,,,,7000000,"For Australia, Joint Ore Reserves Committee-compliant or equivalent reserves were 4.8 million tons.",7000000.0,Australia
+MCS2025,Lithium,Brazil,"Mine production, lithium content",metric tons,5260.0,10000.0,estimated 2023,,,,390000,,390000.0,Brazil
+MCS2025,Lithium,Canada ,"Mine production, lithium content",metric tons,3240.0,4300.0,estimated 2023,,,,1200000,,1200000.0,Canada
+MCS2025,Lithium,Chile,"Mine production, lithium content",metric tons,41400.0,49000.0,,,,,9300000,,9300000.0,Chile
+MCS2025,Lithium,China,"Mine production, lithium content",metric tons,35700.0,41000.0,estimated 2023,,,,3000000,,3000000.0,China
+MCS2025,Lithium,Namibia,"Mine production, lithium content",metric tons,2700.0,2700.0,estimated 2023,,,,14000,,14000.0,Namibia
+MCS2025,Lithium,Portugal,"Mine production, lithium content",metric tons,380.0,380.0,estimated 2023,,,,60000,,60000.0,Portugal
+MCS2025,Lithium,Zimbabwe,"Mine production, lithium content",metric tons,14900.0,22000.0,estimated 2023,,,,480000,,480000.0,Zimbabwe
+MCS2025,Magnesium Compounds,United States,"Mine production, magnesite - gross weight",thousand metric tons,,,W for 23-24,,,,35000,,35000.0,United States
+MCS2025,Magnesium Compounds,Australia,"Mine production, magnesite - gross weight",thousand metric tons,500.0,490.0,,,,,280000,,280000.0,Australia
+MCS2025,Magnesium Compounds,Austria,"Mine production, magnesite - gross weight",thousand metric tons,771.0,760.0,,,,,49000,,49000.0,Austria
+MCS2025,Magnesium Compounds,Brazil,"Mine production, magnesite - gross weight",thousand metric tons,1800.0,1800.0,,,,,200000,,200000.0,Brazil
+MCS2025,Magnesium Compounds,Canada ,"Mine production, magnesite - gross weight",thousand metric tons,150.0,150.0,,,,,,,,Canada
+MCS2025,Magnesium Compounds,China,"Mine production, magnesite - gross weight",thousand metric tons,13000.0,13000.0,,,,,680000,,680000.0,China
+MCS2025,Magnesium Compounds,Greece,"Mine production, magnesite - gross weight",thousand metric tons,393.0,390.0,,,,,280000,,280000.0,Greece
+MCS2025,Magnesium Compounds,India,"Mine production, magnesite - gross weight",thousand metric tons,123.0,160.0,reported,,,,66000,,66000.0,India
+MCS2025,Magnesium Compounds,Iran,"Mine production, magnesite - gross weight",thousand metric tons,216.0,210.0,,,,,10000,,10000.0,Iran
+MCS2025,Magnesium Compounds,Russia ,"Mine production, magnesite - gross weight",thousand metric tons,2500.0,2500.0,,,,,2300000,,2300000.0,Russia
+MCS2025,Magnesium Compounds,Slovakia,"Mine production, magnesite - gross weight",thousand metric tons,391.0,380.0,reported,,,,1200000,,1200000.0,Slovakia
+MCS2025,Magnesium Compounds,Spain,"Mine production, magnesite - gross weight",thousand metric tons,680.0,670.0,,,,,35000,,35000.0,Spain
+MCS2025,Magnesium Compounds,Turkey,"Mine production, magnesite - gross weight",thousand metric tons,1330.0,1300.0,reported,,,,110000,,110000.0,Turkey
+MCS2025,Magnesium metal,United States,Magnesium smelter production,thousand metric tons,,,,,64.0,reported,64,Moved to capacity column not a reserve,64.0,United States
+MCS2025,Magnesium metal,Brazil,Magnesium smelter production,thousand metric tons,20.0,20.0,,,22.0,,22,,22.0,Brazil
+MCS2025,Magnesium metal,China,Magnesium smelter production,thousand metric tons,805.0,950.0,reported,,1800.0,,1800,,1800.0,China
+MCS2025,Magnesium metal,Iran,Magnesium smelter production,thousand metric tons,5.0,5.0,,,6.0,,6,,6.0,Iran
+MCS2025,Magnesium metal,Israel,Magnesium smelter production,thousand metric tons,17.0,20.0,reported,,34.0,reported,34,,34.0,Israel
+MCS2025,Magnesium metal,Kazakhstan,Magnesium smelter production,thousand metric tons,22.0,20.0,,,30.0,,30,,30.0,Kazakhstan
+MCS2025,Magnesium metal,Russia ,Magnesium smelter production,thousand metric tons,18.0,15.0,,,81.0,,81,,81.0,Russia
+MCS2025,Magnesium metal,Turkey,Magnesium smelter production,thousand metric tons,13.0,15.0,,,15.0,reported,15,,15.0,Turkey
+MCS2025,Manganese,United States,"Mine production, manganese content",thousand metric tons,,,,,,,,Gross weight for reserves data,,United States
+MCS2025,Manganese,Australia,"Mine production, manganese content",thousand metric tons,2860.0,2800.0,,,,,500000,"For Australia, Joint Ore Reserves Committee-compliant or equivalent reserves were 110 million tons.",500000.0,Australia
+MCS2025,Manganese,Brazil,"Mine production, manganese content",thousand metric tons,580.0,590.0,estimated 2023,,,,270000, ,270000.0,Brazil
+MCS2025,Manganese,China,"Mine production, manganese content",thousand metric tons,767.0,770.0,,,,,280000,,280000.0,China
+MCS2025,Manganese,Côte d’Ivoire,"Mine production, manganese content",thousand metric tons,357.0,360.0,,,,,,,,Côte d’Ivoire
+MCS2025,Manganese,Gabon,"Mine production, manganese content",thousand metric tons,4490.0,4600.0,estimated 2023,,,,61000,,61000.0,Gabon
+MCS2025,Manganese,Ghana,"Mine production, manganese content",thousand metric tons,818.0,820.0,,,,,13000,,13000.0,Ghana
+MCS2025,Manganese,India,"Mine production, manganese content",thousand metric tons,744.0,800.0,,,,,34000,,34000.0,India
+MCS2025,Manganese,Malaysia,"Mine production, manganese content",thousand metric tons,410.0,410.0,,,,,,,,Malaysia
+MCS2025,Manganese,South Africa ,"Mine production, manganese content",thousand metric tons,7300.0,7400.0,,,,,560000,,560000.0,South Africa
+MCS2025,Mercury,United States,"Mine production, mercury content",metric tons,,,na,,,,,,,United States
+MCS2025,Mercury,China,"Mine production, mercury content",metric tons,1000.0,1000.0,,,,,,,,China
+MCS2025,Mercury,Kyrgyzstan,"Mine production, mercury content",metric tons,6.0,6.0,,,,,,,,Kyrgyzstan
+MCS2025,Mercury,Morocco,"Mine production, mercury content",metric tons,2.0,2.0,,,,,,,,Morocco
+MCS2025,Mercury,Norway,"Mine production, mercury content",metric tons,20.0,20.0,,,,,,,,Norway
+MCS2025,Mercury,Peru (exports),"Mine production, mercury content",metric tons,,30.0,na for 2023,,,,,,,Peru
+MCS2025,Mercury,Tajikistan,"Mine production, mercury content",metric tons,100.0,100.0,,,,,,,,Tajikistan
+MCS2025,Mica (Natural),United States,"Mine production, mica scrap and flake",metric tons,42000.0,38000.0,,,,,,Large,,United States
+MCS2025,Mica (Natural),Canada ,"Mine production, mica scrap and flake",metric tons,15000.0,15000.0,,,,,,Large,,Canada
+MCS2025,Mica (Natural),China,"Mine production, mica scrap and flake",metric tons,80000.0,85000.0,,,,,1100000,,1100000.0,China
+MCS2025,Mica (Natural),Finland,"Mine production, mica scrap and flake",metric tons,58200.0,60000.0,reported,,,,,Large,,Finland
+MCS2025,Mica (Natural),France,"Mine production, mica scrap and flake",metric tons,15000.0,10000.0,,,,,,Large,,France
+MCS2025,Mica (Natural),India,"Mine production, mica scrap and flake",metric tons,14000.0,14000.0,,,,,,Large,,India
+MCS2025,Mica (Natural),"Korea, Republic of","Mine production, mica scrap and flake",metric tons,10200.0,12000.0,reported,,,,11000000,,11000000.0,"Korea, Republic of"
+MCS2025,Mica (Natural),Madagascar,"Mine production, mica scrap and flake",metric tons,35000.0,50000.0,,,,,,Large,,Madagascar
+MCS2025,Mica (Natural),Turkey,"Mine production, mica scrap and flake",metric tons,6070.0,4000.0,reported,,,,620000,,620000.0,Turkey
+MCS2025,Mica (Natural),United States,"Mine production, mica sheet",metric tons,,,,,,,,Very small,,United States
+MCS2025,Mica (Natural),Canada ,"Mine production, mica sheet",metric tons,,,,,,,,,,Canada
+MCS2025,Mica (Natural),China,"Mine production, mica sheet",metric tons,,,,,,,75000,,75000.0,China
+MCS2025,Mica (Natural),Finland,"Mine production, mica sheet",metric tons,,,,,,,,,,Finland
+MCS2025,Mica (Natural),France,"Mine production, mica sheet",metric tons,,,,,,,,,,France
+MCS2025,Mica (Natural),India,"Mine production, mica sheet",metric tons,1000.0,1000.0,,,,,110000,,110000.0,India
+MCS2025,Mica (Natural),"Korea, Republic of","Mine production, mica sheet",metric tons,,,,,,,,,,"Korea, Republic of"
+MCS2025,Mica (Natural),Madagascar,"Mine production, mica sheet",metric tons,,,,,,,,,,Madagascar
+MCS2025,Mica (Natural),Turkey,"Mine production, mica sheet",metric tons,,,,,,,,,,Turkey
+MCS2025,Molybdenum,United States,"Mine production, molybdenum content",metric tons,34000.0,33000.0,,,,,3500, (Reserve data is thousand metric tons).,3500.0,United States
+MCS2025,Molybdenum,Argentina,"Mine production, molybdenum content",metric tons,,,,,,,100,,100.0,Argentina
+MCS2025,Molybdenum,Armenia,"Mine production, molybdenum content",metric tons,7600.0,8000.0,estimated 2023,,,,150,,150.0,Armenia
+MCS2025,Molybdenum,Australia,"Mine production, molybdenum content",metric tons,660.0,1000.0,,,,,690,"For Australia, Joint Ore Reserves Committee-compliant or equivalent reserves were 250,000 tons.",690.0,Australia
+MCS2025,Molybdenum,Canada ,"Mine production, molybdenum content",metric tons,1150.0,1200.0,,,,,64,,64.0,Canada
+MCS2025,Molybdenum,Chile,"Mine production, molybdenum content",metric tons,44100.0,38000.0,,,,,1400,,1400.0,Chile
+MCS2025,Molybdenum,China,"Mine production, molybdenum content",metric tons,96000.0,110000.0,estimated 2023,,,,5900,,5900.0,China
+MCS2025,Molybdenum,Iran,"Mine production, molybdenum content",metric tons,2500.0,3000.0,estimated 2023,,,,43,,43.0,Iran
+MCS2025,Molybdenum,Kazakhstan,"Mine production, molybdenum content",metric tons,3730.0,3900.0,,,,,7,,7.0,Kazakhstan
+MCS2025,Molybdenum,"Korea, North","Mine production, molybdenum content",metric tons,400.0,700.0,estimated 2023,,,,,NA (Reserve data is thousand metric tons).,,"Korea, North"
+MCS2025,Molybdenum,"Korea, Republic of","Mine production, molybdenum content",metric tons,339.0,300.0,,,,,8,,8.0,"Korea, Republic of"
+MCS2025,Molybdenum,Mexico,"Mine production, molybdenum content",metric tons,17500.0,17000.0,,,,,130,,130.0,Mexico
+MCS2025,Molybdenum,Mongolia,"Mine production, molybdenum content",metric tons,3160.0,3100.0,,,,,10, (Reserve data is thousand metric tons).,10.0,Mongolia
+MCS2025,Molybdenum,Peru,"Mine production, molybdenum content",metric tons,33500.0,41000.0,,,,,1900,,1900.0,Peru
+MCS2025,Molybdenum,Russia ,"Mine production, molybdenum content",metric tons,1700.0,1700.0,estimated 2023,,,,1100,,1100.0,Russia
+MCS2025,Molybdenum,Uzbekistan,"Mine production, molybdenum content",metric tons,1700.0,1700.0,estimated 2023,,,,21,,21.0,Uzbekistan
+MCS2025,Nickel,United States,"Mine production, nickel content",metric tons,16400.0,8000.0,,,,,310000,Includes reserve data for three projects. An additional three domestic projects have defined resources but have not yet defined reserves.,310000.0,United States
+MCS2025,Nickel,Australia,"Mine production, nickel content",metric tons,149000.0,110000.0,,,,,24000000,"For Australia, Joint Ore Reserves Committee-compliant or equivalent reserves were 8.6 million tons.",24000000.0,Australia
+MCS2025,Nickel,Brazil,"Mine production, nickel content",metric tons,82700.0,77000.0,,,,,16000000,,16000000.0,Brazil
+MCS2025,Nickel,Canada ,"Mine production, nickel content",metric tons,159000.0,190000.0,,,,,2200000,,2200000.0,Canada
+MCS2025,Nickel,China,"Mine production, nickel content",metric tons,117000.0,120000.0,estimated 2023,,,,4400000,,4400000.0,China
+MCS2025,Nickel,Indonesia,"Mine production, nickel content",metric tons,2030000.0,2200000.0,,,,,55000000,,55000000.0,Indonesia
+MCS2025,Nickel,New Caledonia,"Mine production, nickel content",metric tons,231000.0,110000.0,,,,,7100000,,7100000.0,New Caledonia
+MCS2025,Nickel,Philippines,"Mine production, nickel content",metric tons,413000.0,330000.0,estimated 2023,,,,4800000,,4800000.0,Philippines
+MCS2025,Nickel,Russia ,"Mine production, nickel content",metric tons,210000.0,210000.0,,,,,8300000,,8300000.0,Russia
+MCS2025,Niobium,United States,"Mine production, niobium content",metric tons,,,,,,,210000,,210000.0,United States
+MCS2025,Niobium,Brazil,"Mine production, niobium content",metric tons,102000.0,100000.0,,,,,16000000,,16000000.0,Brazil
+MCS2025,Niobium,Canada ,"Mine production, niobium content",metric tons,6700.0,7100.0,,,,,1600000,,1600000.0,Canada
+MCS2025,Niobium,Congo (Kinshasa),"Mine production, niobium content",metric tons,740.0,700.0,,,,,,,,Democratic Republic of the Congo
+MCS2025,Niobium,Russia ,"Mine production, niobium content",metric tons,353.0,350.0,,,,,,,,Russia
+MCS2025,Niobium,Rwanda,"Mine production, niobium content",metric tons,210.0,200.0,,,,,,,,Rwanda
+MCS2025,Nitrogen(fixed) - Ammonia,United States,"Plant production, nitrogen content",thousand metric tons,13800.0,14000.0,,,,,,,,United States
+MCS2025,Nitrogen(fixed) - Ammonia,Algeria,"Plant production, nitrogen content",thousand metric tons,2000.0,2000.0,,,,,,,,Algeria
+MCS2025,Nitrogen(fixed) - Ammonia,Australia,"Plant production, nitrogen content",thousand metric tons,1300.0,1300.0,,,,,,,,Australia
+MCS2025,Nitrogen(fixed) - Ammonia,Canada ,"Plant production, nitrogen content",thousand metric tons,3600.0,3600.0,,,,,,,,Canada
+MCS2025,Nitrogen(fixed) - Ammonia,China,"Plant production, nitrogen content",thousand metric tons,47000.0,47000.0,,,,,,,,China
+MCS2025,Nitrogen(fixed) - Ammonia,Egypt,"Plant production, nitrogen content",thousand metric tons,4500.0,5000.0,,,,,,,,Egypt
+MCS2025,Nitrogen(fixed) - Ammonia,Germany,"Plant production, nitrogen content",thousand metric tons,1720.0,1700.0,,,,,,,,Germany
+MCS2025,Nitrogen(fixed) - Ammonia,India,"Plant production, nitrogen content",thousand metric tons,15300.0,15000.0,,,,,,,,India
+MCS2025,Nitrogen(fixed) - Ammonia,Indonesia,"Plant production, nitrogen content",thousand metric tons,5800.0,6000.0,,,,,,,,Indonesia
+MCS2025,Nitrogen(fixed) - Ammonia,Iran,"Plant production, nitrogen content",thousand metric tons,4200.0,4200.0,,,,,,,,Iran
+MCS2025,Nitrogen(fixed) - Ammonia,Malaysia,"Plant production, nitrogen content",thousand metric tons,1400.0,1400.0,,,,,,,,Malaysia
+MCS2025,Nitrogen(fixed) - Ammonia,Netherlands,"Plant production, nitrogen content",thousand metric tons,2000.0,2000.0,,,,,,,,Netherlands
+MCS2025,Nitrogen(fixed) - Ammonia,Nigeria,"Plant production, nitrogen content",thousand metric tons,1700.0,1700.0,,,,,,,,Nigeria
+MCS2025,Nitrogen(fixed) - Ammonia,Oman,"Plant production, nitrogen content",thousand metric tons,2000.0,2000.0,,,,,,,,Oman
+MCS2025,Nitrogen(fixed) - Ammonia,Pakistan,"Plant production, nitrogen content",thousand metric tons,3500.0,3500.0,,,,,,,,Pakistan
+MCS2025,Nitrogen(fixed) - Ammonia,Poland,"Plant production, nitrogen content",thousand metric tons,1560.0,1600.0,,,,,,,,Poland
+MCS2025,Nitrogen(fixed) - Ammonia,Qatar,"Plant production, nitrogen content",thousand metric tons,3050.0,3100.0,,,,,,,,Qatar
+MCS2025,Nitrogen(fixed) - Ammonia,Russia ,"Plant production, nitrogen content",thousand metric tons,14000.0,14000.0,,,,,,,,Russia
+MCS2025,Nitrogen(fixed) - Ammonia,Saudi Arabia,"Plant production, nitrogen content",thousand metric tons,5400.0,5400.0,,,,,,,,Saudi Arabia
+MCS2025,Nitrogen(fixed) - Ammonia,Trinidad and Tobago,"Plant production, nitrogen content",thousand metric tons,3220.0,3200.0,,,,,,,,Trinidad and Tobago
+MCS2025,Nitrogen(fixed) - Ammonia,Uzbekistan,"Plant production, nitrogen content",thousand metric tons,1300.0,1300.0,,,,,,,,Uzbekistan
+MCS2025,Nitrogen(fixed) - Ammonia,Vietnam,"Plant production, nitrogen content",thousand metric tons,1440.0,1400.0,,,,,,,,Vietnam
+MCS2025,Peat,United States,Mine production,thousand metric tons,310.0,330.0,estimated 2023,,,,150000,,150000.0,United States
+MCS2025,Peat,Belarus,Mine production,thousand metric tons,2200.0,2200.0,estimated 2023,,,,2600000,,2600000.0,Belarus
+MCS2025,Peat,Canada ,Mine production,thousand metric tons,3030.0,3000.0,,,,,720000,,720000.0,Canada
+MCS2025,Peat,Estonia,Mine production,thousand metric tons,1200.0,1200.0,estimated 2023,,,,570000,,570000.0,Estonia
+MCS2025,Peat,Finland,Mine production,thousand metric tons,3300.0,3300.0,estimated 2023,,,,6000000,,6000000.0,Finland
+MCS2025,Peat,Germany,Mine production,thousand metric tons,1720.0,1700.0,,,,,,Included with Other countries,,Germany
+MCS2025,Peat,Latvia,Mine production,thousand metric tons,2430.0,2400.0,,,,,150000,,150000.0,Latvia
+MCS2025,Peat,Lithuania,Mine production,thousand metric tons,394.0,400.0,,,,,210000,,210000.0,Lithuania
+MCS2025,Peat,Poland,Mine production,thousand metric tons,846.0,850.0,,,,,,Included with Other countries,,Poland
+MCS2025,Peat,Russia ,Mine production,thousand metric tons,1600.0,1600.0,estimated 2023,,,,1000000,,1000000.0,Russia
+MCS2025,Peat,Sweden,Mine production,thousand metric tons,1820.0,2000.0,,,,,,Included with Other countries,,Sweden
+MCS2025,Peat,Ukraine,Mine production,thousand metric tons,440.0,440.0,,,,,,Included with Other countries,,Ukraine
+MCS2025,Perlite,United States,"Mine production, estimated",thousand metric tons,410.0,440.0,"Processed ore sold and used by producers, reported",,,,50000,,50000.0,United States
+MCS2025,Perlite,Argentina,"Mine production, estimated",thousand metric tons,32.0,30.0,,,,,,,,Argentina
+MCS2025,Perlite,Armenia,"Mine production, estimated",thousand metric tons,29.0,30.0,,,,,,,,Armenia
+MCS2025,Perlite,China,"Mine production, estimated",thousand metric tons,1500.0,1500.0,,,,,32000,,32000.0,China
+MCS2025,Perlite,Georgia,"Mine production, estimated",thousand metric tons,38.0,40.0,,,,,,,,Georgia
+MCS2025,Perlite,Greece,"Mine production, estimated",thousand metric tons,840.0,850.0,,,,,180000,,180000.0,Greece
+MCS2025,Perlite,Hungary,"Mine production, estimated",thousand metric tons,77.0,80.0,crude ore,,,,,,,Hungary
+MCS2025,Perlite,Mexico,"Mine production, estimated",thousand metric tons,29.0,30.0,crude ore,,,,,,,Mexico
+MCS2025,Perlite,New Zealand,"Mine production, estimated",thousand metric tons,18.0,20.0,,,,,,,,New Zealand
+MCS2025,Perlite,Philippines,"Mine production, estimated",thousand metric tons,18.0,20.0,,,,,,,,Philippines
+MCS2025,Perlite,Slovakia,"Mine production, estimated",thousand metric tons,39.0,40.0,,,,,30000,,30000.0,Slovakia
+MCS2025,Perlite,South Africa,"Mine production, estimated",thousand metric tons,11.0,10.0,,,,,,,,South Africa
+MCS2025,Perlite,Turkey,"Mine production, estimated",thousand metric tons,1170.0,1200.0,crude ore,,,,,,,Turkey
+MCS2025,Phosphate rock,United States,"Mine production, marketable phosphate rock",thousand metric tons,19600.0,20000.0,,,,,1000000,,1000000.0,United States
+MCS2025,Phosphate rock,Algeria,"Mine production, marketable phosphate rock",thousand metric tons,2000.0,2000.0,,,,,2200000,,2200000.0,Algeria
+MCS2025,Phosphate rock,Australia,"Mine production, marketable phosphate rock",thousand metric tons,2500.0,2500.0,,,,,1100000,,1100000.0,Australia
+MCS2025,Phosphate rock,Brazil,"Mine production, marketable phosphate rock",thousand metric tons,5280.0,5300.0,,,,,1600000,,1600000.0,Brazil
+MCS2025,Phosphate rock,China,"Mine production, marketable phosphate rock",thousand metric tons,105000.0,110000.0,,,,,3700000,,3700000.0,China
+MCS2025,Phosphate rock,Egypt,"Mine production, marketable phosphate rock",thousand metric tons,5000.0,5000.0,,,,,2800000,,2800000.0,Egypt
+MCS2025,Phosphate rock,Finland,"Mine production, marketable phosphate rock",thousand metric tons,906.0,900.0,,,,,1000000,,1000000.0,Finland
+MCS2025,Phosphate rock,India,"Mine production, marketable phosphate rock",thousand metric tons,1800.0,1600.0,,,,,31000,,31000.0,India
+MCS2025,Phosphate rock,Israel,"Mine production, marketable phosphate rock",thousand metric tons,2310.0,2300.0,,,,,60000,,60000.0,Israel
+MCS2025,Phosphate rock,Jordan,"Mine production, marketable phosphate rock",thousand metric tons,11500.0,12000.0,,,,,1000000,,1000000.0,Jordan
+MCS2025,Phosphate rock,Kazakhstan,"Mine production, marketable phosphate rock",thousand metric tons,1500.0,1700.0,,,,,260000,,260000.0,Kazakhstan
+MCS2025,Phosphate rock,Mexico,"Mine production, marketable phosphate rock",thousand metric tons,439.0,360.0,,,,,30000,,30000.0,Mexico
+MCS2025,Phosphate rock,Morocco,"Mine production, marketable phosphate rock",thousand metric tons,33000.0,30000.0,,,,,50000000,,50000000.0,Morocco
+MCS2025,Phosphate rock,Peru,"Mine production, marketable phosphate rock",thousand metric tons,4700.0,5000.0,,,,,210000,,210000.0,Peru
+MCS2025,Phosphate rock,Russia ,"Mine production, marketable phosphate rock",thousand metric tons,13000.0,14000.0,,,,,2400000,,2400000.0,Russia
+MCS2025,Phosphate rock,Saudi Arabia,"Mine production, marketable phosphate rock",thousand metric tons,9900.0,9500.0,,,,,1000000,,1000000.0,Saudi Arabia
+MCS2025,Phosphate rock,Senegal,"Mine production, marketable phosphate rock",thousand metric tons,2400.0,2500.0,,,,,50000,,50000.0,Senegal
+MCS2025,Phosphate rock,South Africa ,"Mine production, marketable phosphate rock",thousand metric tons,1720.0,2200.0,,,,,1500000,,1500000.0,South Africa
+MCS2025,Phosphate rock,Syria,"Mine production, marketable phosphate rock",thousand metric tons,800.0,2000.0,,,,,250000,,250000.0,Syria
+MCS2025,Phosphate rock,Togo,"Mine production, marketable phosphate rock",thousand metric tons,1610.0,1500.0,,,,,30000,,30000.0,Togo
+MCS2025,Phosphate rock,Tunisia,"Mine production, marketable phosphate rock",thousand metric tons,3600.0,3300.0,,,,,2500000,,2500000.0,Tunisia
+MCS2025,Phosphate rock,Turkey,"Mine production, marketable phosphate rock",thousand metric tons,960.0,800.0,,,,,71000,,71000.0,Turkey
+MCS2025,Phosphate rock,Uzbekistan,"Mine production, marketable phosphate rock",thousand metric tons,800.0,900.0,,,,,100000,,100000.0,Uzbekistan
+MCS2025,Phosphate rock,Vietnam,"Mine production, marketable phosphate rock",thousand metric tons,2500.0,2600.0,,,,,30000,,30000.0,Vietnam
+MCS2025,Platinum-Group metals,United States,"Mine production, Palladium content",kilograms,10300.0,8000.0,,,,,820000,,820000.0,United States
+MCS2025,Platinum-Group metals,Canada ,"Mine production, Palladium content",kilograms,16100.0,15000.0,,,,,310000,,310000.0,Canada
+MCS2025,Platinum-Group metals,Russia ,"Mine production, Palladium content",kilograms,87000.0,75000.0,,,,,16000000,"Reserves for Russia are based on the Russian Classification system A+B+C1+C2, where C2 are deposits that are being developed or prepared for development.",16000000.0,Russia
+MCS2025,Platinum-Group metals,South Africa ,"Mine production, Palladium content",kilograms,74900.0,72000.0,,,,,63000000,,63000000.0,South Africa
+MCS2025,Platinum-Group metals,Zimbabwe,"Mine production, Palladium content",kilograms,15900.0,15000.0,,,,,1200000,,1200000.0,Zimbabwe
+MCS2025,Platinum-Group metals,United States,"Mine production, Platinum content",kilograms,3040.0,2000.0,,,,,,,,United States
+MCS2025,Platinum-Group metals,Canada ,"Mine production, Platinum content",kilograms,5170.0,5200.0,,,,,,,,Canada
+MCS2025,Platinum-Group metals,Russia ,"Mine production, Platinum content",kilograms,21000.0,18000.0,,,,,,,,Russia
+MCS2025,Platinum-Group metals,South Africa ,"Mine production, Platinum content",kilograms,125000.0,120000.0,,,,,,,,South Africa
+MCS2025,Platinum-Group metals,Zimbabwe,"Mine production, Platinum content",kilograms,19200.0,19000.0,,,,,,,,Zimbabwe
+MCS2025,Potash,United States,"Mine production, potassium oxide (K2O) equivalent",thousand metric tons,390.0,420.0,,,,,220000,,220000.0,United States
+MCS2025,Potash,Belarus,"Mine production, potassium oxide (K2O) equivalent",thousand metric tons,4500.0,7000.0,,,,,750000,,750000.0,Belarus
+MCS2025,Potash,Brazil,"Mine production, potassium oxide (K2O) equivalent",thousand metric tons,300.0,360.0,,,,,2300,,2300.0,Brazil
+MCS2025,Potash,Canada ,"Mine production, potassium oxide (K2O) equivalent",thousand metric tons,13500.0,15000.0,,,,,1100000,,1100000.0,Canada
+MCS2025,Potash,Chile,"Mine production, potassium oxide (K2O) equivalent",thousand metric tons,600.0,750.0,,,,,100000,,100000.0,Chile
+MCS2025,Potash,China,"Mine production, potassium oxide (K2O) equivalent",thousand metric tons,6000.0,6300.0,,,,,180000,,180000.0,China
+MCS2025,Potash,Germany,"Mine production, potassium oxide (K2O) equivalent",thousand metric tons,2700.0,3000.0,,,,,150000,,150000.0,Germany
+MCS2025,Potash,Israel,"Mine production, potassium oxide (K2O) equivalent",thousand metric tons,2330.0,2400.0,,,,,,Large,,Israel
+MCS2025,Potash,Jordan,"Mine production, potassium oxide (K2O) equivalent",thousand metric tons,1700.0,1800.0,,,,,,Large,,Jordan
+MCS2025,Potash,Laos,"Mine production, potassium oxide (K2O) equivalent",thousand metric tons,1500.0,1500.0,,,,,1000000,,1000000.0,Laos
+MCS2025,Potash,Russia ,"Mine production, potassium oxide (K2O) equivalent",thousand metric tons,9000.0,9000.0,,,,,920000,,920000.0,Russia
+MCS2025,Potash,Spain,"Mine production, potassium oxide (K2O) equivalent",thousand metric tons,367.0,400.0,,,,,100000,,100000.0,Spain
+MCS2025,Potash,United States,"Reserves, recoverable ore",thousand metric tons,,,,,,,970000,,970000.0,United States
+MCS2025,Potash,Belarus,"Reserves, recoverable ore",thousand metric tons,,,,,,,3300000,,3300000.0,Belarus
+MCS2025,Potash,Brazil,"Reserves, recoverable ore",thousand metric tons,,,,,,,10000,,10000.0,Brazil
+MCS2025,Potash,Canada ,"Reserves, recoverable ore",thousand metric tons,,,,,,,4500000,,4500000.0,Canada
+MCS2025,Potash,Chile,"Reserves, recoverable ore",thousand metric tons,,,,,,,,,,Chile
+MCS2025,Potash,China,"Reserves, recoverable ore",thousand metric tons,,,,,,,,,,China
+MCS2025,Potash,Germany,"Reserves, recoverable ore",thousand metric tons,,,,,,,,,,Germany
+MCS2025,Potash,Israel,"Reserves, recoverable ore",thousand metric tons,,,,,,,,,,Israel
+MCS2025,Potash,Jordan,"Reserves, recoverable ore",thousand metric tons,,,,,,,,,,Jordan
+MCS2025,Potash,Laos,"Reserves, recoverable ore",thousand metric tons,,,,,,,,,,Laos
+MCS2025,Potash,Russia ,"Reserves, recoverable ore",thousand metric tons,,,,,,,,,,Russia
+MCS2025,Potash,Spain,"Reserves, recoverable ore",thousand metric tons,,,,,,,,,,Spain
+MCS2025,Pumice & Pumicite,United States,"Mine production, estimated",thousand metric tons,438.0,450.0,Quantity sold and used by producers,,,,,,,United States
+MCS2025,Pumice & Pumicite,Algeria,"Mine production, estimated",thousand metric tons,900.0,900.0,includes pozzolan and (or) volcanic tuff,,,,,,,Algeria
+MCS2025,Pumice & Pumicite,Cameroon,"Mine production, estimated",thousand metric tons,280.0,280.0,includes pozzolan and (or) volcanic tuff,,,,,,,Cameroon
+MCS2025,Pumice & Pumicite,Chile,"Mine production, estimated",thousand metric tons,730.0,730.0,includes pozzolan and (or) volcanic tuff,,,,,,,Chile
+MCS2025,Pumice & Pumicite,Ecuador,"Mine production, estimated",thousand metric tons,800.0,800.0,,,,,,,,Ecuador
+MCS2025,Pumice & Pumicite,Ethiopia,"Mine production, estimated",thousand metric tons,510.0,510.0,,,,,,,,Ethiopia
+MCS2025,Pumice & Pumicite,France,"Mine production, estimated",thousand metric tons,280.0,280.0,includes pozzolan and (or) volcanic tuff,,,,,,,France
+MCS2025,Pumice & Pumicite,Greece,"Mine production, estimated",thousand metric tons,1010.0,1010.0,includes pozzolan and (or) volcanic tuff,,,,,,,Greece
+MCS2025,Pumice & Pumicite,Guatemala,"Mine production, estimated",thousand metric tons,570.0,570.0,,,,,,,,Guatemala
+MCS2025,Pumice & Pumicite,Saudi Arabia,"Mine production, estimated",thousand metric tons,980.0,980.0,includes pozzolan and (or) volcanic tuff,,,,,,,Saudi Arabia
+MCS2025,Pumice & Pumicite,Spain,"Mine production, estimated",thousand metric tons,240.0,240.0,,,,,,,,Spain
+MCS2025,Pumice & Pumicite,Tanzania,"Mine production, estimated",thousand metric tons,230.0,230.0,includes pozzolan and (or) volcanic tuff,,,,,,,Tanzania
+MCS2025,Pumice & Pumicite,Turkey,"Mine production, estimated",thousand metric tons,8200.0,8200.0,,,,,,,,Turkey
+MCS2025,Pumice & Pumicite,Uganda,"Mine production, estimated",thousand metric tons,830.0,830.0,includes pozzolan and (or) volcanic tuff,,,,,,,Uganda
+MCS2025,Rare earths,United States,"Mine production, rare-earth-oxide equivalent",metric tons,41600.0,45000.0,,,,,1900000,,1900000.0,United States
+MCS2025,Rare earths,Australia,"Mine production, rare-earth-oxide equivalent",metric tons,16000.0,13000.0,"Estimated based on reported import data for China. Source: Zen Innovations, Global Trade Tracker.",,,,5700000,"For Australia, Joint Ore Reserves Committee-compliant or equivalent reserves were 3.3 million tons.",5700000.0,Australia
+MCS2025,Rare earths,Brazil,"Mine production, rare-earth-oxide equivalent",metric tons,140.0,20.0,,,,,21000000,,21000000.0,Brazil
+MCS2025,Rare earths,Burma,"Mine production, rare-earth-oxide equivalent",metric tons,43000.0,31000.0,"Estimated based on reported import data for China. Source: Zen Innovations, Global Trade Tracker.",,,,,,,Burma
+MCS2025,Rare earths,Canada ,"Mine production, rare-earth-oxide equivalent",metric tons,,,,,,,830000,,830000.0,Canada
+MCS2025,Rare earths,China,"Mine production, rare-earth-oxide equivalent",metric tons,255000.0,270000.0,Production quota; does not include undocumented production.,,,,44000000,,44000000.0,China
+MCS2025,Rare earths,Greenland,"Mine production, rare-earth-oxide equivalent",metric tons,,,,,,,1500000,,1500000.0,Greenland
+MCS2025,Rare earths,India,"Mine production, rare-earth-oxide equivalent",metric tons,2900.0,2900.0,,,,,6900000,,6900000.0,India
+MCS2025,Rare earths,Madagascar,"Mine production, rare-earth-oxide equivalent",metric tons,2100.0,2000.0,"Estimated based on reported import data for China. Source: Zen Innovations, Global Trade Tracker.",,,,,,,Madagascar
+MCS2025,Rare earths,Malaysia,"Mine production, rare-earth-oxide equivalent",metric tons,310.0,130.0,"Estimated based on reported import data for China. Source: Zen Innovations, Global Trade Tracker.",,,,,,,Malaysia
+MCS2025,Rare earths,Nigeria,"Mine production, rare-earth-oxide equivalent",metric tons,7200.0,13000.0,"Estimated based on reported import data for China. Source: Zen Innovations, Global Trade Tracker.",,,,,,,Nigeria
+MCS2025,Rare earths,Russia ,"Mine production, rare-earth-oxide equivalent",metric tons,2500.0,2500.0,,,,,3800000,,3800000.0,Russia
+MCS2025,Rare earths,South Africa ,"Mine production, rare-earth-oxide equivalent",metric tons,,,,,,,860000,,860000.0,South Africa
+MCS2025,Rare earths,Tanzania,"Mine production, rare-earth-oxide equivalent",metric tons,,,,,,,890000,,890000.0,Tanzania
+MCS2025,Rare earths,Thailand,"Mine production, rare-earth-oxide equivalent",metric tons,3600.0,13000.0,"Estimated based on reported import data for China. Source: Zen Innovations, Global Trade Tracker.",,,,4500,,4500.0,Thailand
+MCS2025,Rare earths,Vietnam,"Mine production, rare-earth-oxide equivalent",metric tons,300.0,300.0,"Estimated based on reported import data for China. Source: Zen Innovations, Global Trade Tracker.",,,,3500000,,3500000.0,Vietnam
+MCS2025,Rhenium,United States,"Mine production, rhenium content",kilograms,9410.0,9500.0,,,,,400000,,400000.0,United States
+MCS2025,Rhenium,Armenia,"Mine production, rhenium content",kilograms,210.0,200.0,,,,,95000,,95000.0,Armenia
+MCS2025,Rhenium,Chile,"Mine production, rhenium content",kilograms,30000.0,29000.0,"Estimated rhenium recovered from roaster residues from Belgium, Chile, Mexico, and Peru.",,,,1300000,,1300000.0,Chile
+MCS2025,Rhenium,China,"Mine production, rhenium content",kilograms,5300.0,5300.0,,,,,19000,,19000.0,China
+MCS2025,Rhenium,Kazakhstan,"Mine production, rhenium content",kilograms,500.0,500.0,,,,,190000,,190000.0,Kazakhstan
+MCS2025,Rhenium,"Korea, Republic of","Mine production, rhenium content",kilograms,2800.0,3000.0,,,,,,,,"Korea, Republic of"
+MCS2025,Rhenium,Poland,"Mine production, rhenium content",kilograms,9380.0,9400.0,,,,,,,,Poland
+MCS2025,Rhenium,Russia ,"Mine production, rhenium content",kilograms,,,na,,,,310000,,310000.0,Russia
+MCS2025,Rhenium,Uzbekistan,"Mine production, rhenium content",kilograms,5000.0,5000.0,,,,,,,,Uzbekistan
+MCS2025,Salt,United States,"Mine production, estimated",thousand metric tons,42000.0,40000.0,,,,,,,,United States
+MCS2025,Salt,Australia,"Mine production, estimated",thousand metric tons,12000.0,13000.0,,,,,,,,Australia
+MCS2025,Salt,Belarus,"Mine production, estimated",thousand metric tons,2000.0,2100.0,,,,,,,,Belarus
+MCS2025,Salt,Brazil,"Mine production, estimated",thousand metric tons,6600.0,6600.0,,,,,,,,Brazil
+MCS2025,Salt,Bulgaria,"Mine production, estimated",thousand metric tons,3000.0,3000.0,,,,,,,,Bulgaria
+MCS2025,Salt,Canada ,"Mine production, estimated",thousand metric tons,12000.0,12000.0,,,,,,,,Canada
+MCS2025,Salt,Chile,"Mine production, estimated",thousand metric tons,10000.0,11000.0,,,,,,,,Chile
+MCS2025,Salt,China,"Mine production, estimated",thousand metric tons,54000.0,55000.0,,,,,,,,China
+MCS2025,Salt,Egypt,"Mine production, estimated",thousand metric tons,2300.0,2300.0,,,,,,,,Egypt
+MCS2025,Salt,France,"Mine production, estimated",thousand metric tons,4600.0,5000.0,,,,,,,,France
+MCS2025,Salt,Germany,"Mine production, estimated",thousand metric tons,15000.0,16000.0,,,,,,,,Germany
+MCS2025,Salt,India,"Mine production, estimated",thousand metric tons,27000.0,28000.0,,,,,,,,India
+MCS2025,Salt,Iran,"Mine production, estimated",thousand metric tons,2700.0,2700.0,,,,,,,,Iran
+MCS2025,Salt,Italy,"Mine production, estimated",thousand metric tons,1800.0,1900.0,,,,,,,,Italy
+MCS2025,Salt,Mexico,"Mine production, estimated",thousand metric tons,8700.0,9000.0,,,,,,,,Mexico
+MCS2025,Salt,Netherlands,"Mine production, estimated",thousand metric tons,5300.0,6000.0,,,,,,,,Netherlands
+MCS2025,Salt,Pakistan,"Mine production, estimated",thousand metric tons,3100.0,3000.0,,,,,,,,Pakistan
+MCS2025,Salt,Poland,"Mine production, estimated",thousand metric tons,4500.0,4600.0,,,,,,,,Poland
+MCS2025,Salt,Russia ,"Mine production, estimated",thousand metric tons,8200.0,8000.0,,,,,,,,Russia
+MCS2025,Salt,Saudi Arabia,"Mine production, estimated",thousand metric tons,2500.0,2400.0,,,,,,,,Saudi Arabia
+MCS2025,Salt,Spain,"Mine production, estimated",thousand metric tons,3900.0,4000.0,,,,,,,,Spain
+MCS2025,Salt,Turkey,"Mine production, estimated",thousand metric tons,9100.0,9000.0,,,,,,,,Turkey
+MCS2025,Salt,United Kingdom,"Mine production, estimated",thousand metric tons,2700.0,2800.0,,,,,,,,United Kingdom
+MCS2025,Sand and gravel (industrial),United States,"Mine production, estimated",metric tons,133000.0,130000.0,,,,,,,,United States
+MCS2025,Sand and gravel (industrial),Argentina,"Mine production, estimated",metric tons,4000.0,4000.0,,,,,,,,Argentina
+MCS2025,Sand and gravel (industrial),Australia,"Mine production, estimated",metric tons,5500.0,5600.0,,,,,,,,Australia
+MCS2025,Sand and gravel (industrial),Bulgaria,"Mine production, estimated",metric tons,8050.0,8200.0,,,,,,,,Bulgaria
+MCS2025,Sand and gravel (industrial),Canada ,"Mine production, estimated",metric tons,4100.0,4100.0,,,,,,,,Canada
+MCS2025,Sand and gravel (industrial),China,"Mine production, estimated",metric tons,88100.0,89000.0,,,,,,,,China
+MCS2025,Sand and gravel (industrial),France,"Mine production, estimated",metric tons,11900.0,12000.0,,,,,,,,France
+MCS2025,Sand and gravel (industrial),Germany,"Mine production, estimated",metric tons,11100.0,11000.0,,,,,,,,Germany
+MCS2025,Sand and gravel (industrial),India,"Mine production, estimated",metric tons,11900.0,12000.0,,,,,,,,India
+MCS2025,Sand and gravel (industrial),Indonesia,"Mine production, estimated",metric tons,3540.0,3500.0,,,,,,,,Indonesia
+MCS2025,Sand and gravel (industrial),Italy,"Mine production, estimated",metric tons,33000.0,33000.0,,,,,,,,Italy
+MCS2025,Sand and gravel (industrial),Malaysia,"Mine production, estimated",metric tons,7000.0,7000.0,,,,,,,,Malaysia
+MCS2025,Sand and gravel (industrial),Mexico,"Mine production, estimated",metric tons,2700.0,2700.0,,,,,,,,Mexico
+MCS2025,Sand and gravel (industrial),Netherlands,"Mine production, estimated",metric tons,60000.0,60000.0,,,,,,,,Netherlands
+MCS2025,Sand and gravel (industrial),Poland,"Mine production, estimated",metric tons,5930.0,5900.0,,,,,,,,Poland
+MCS2025,Sand and gravel (industrial),Russia ,"Mine production, estimated",metric tons,7300.0,7300.0,,,,,,,,Russia
+MCS2025,Sand and gravel (industrial),Saudi Arabia,"Mine production, estimated",metric tons,2100.0,2100.0,,,,,,,,Saudi Arabia
+MCS2025,Sand and gravel (industrial),Spain,"Mine production, estimated",metric tons,6600.0,6000.0,,,,,,,,Spain
+MCS2025,Sand and gravel (industrial),Turkey,"Mine production, estimated",metric tons,13000.0,13000.0,,,,,,,,Turkey
+MCS2025,Sand and gravel (industrial),United Kingdom,"Mine production, estimated",metric tons,4900.0,4900.0,,,,,,,,United Kingdom
+MCS2025,Selenium,United States,"Refinery production, selenium content",metric tons,,,W for 23-24,,,,10000,,10000.0,United States
+MCS2025,Selenium,Belgium,"Refinery production, selenium content",metric tons,200.0,200.0,,,,,,,,Belgium
+MCS2025,Selenium,Canada ,"Refinery production, selenium content",metric tons,130.0,130.0,,,,,6500,,6500.0,Canada
+MCS2025,Selenium,China,"Refinery production, selenium content",metric tons,1780.0,1800.0,reported,,,,5000,,5000.0,China
+MCS2025,Selenium,Finland,"Refinery production, selenium content",metric tons,122.0,170.0,reproted,,,,300,,300.0,Finland
+MCS2025,Selenium,Germany,"Refinery production, selenium content",metric tons,50.0,50.0,,,,,,,,Germany
+MCS2025,Selenium,India,"Refinery production, selenium content",metric tons,14.0,14.0,,,,,500,,500.0,India
+MCS2025,Selenium,Japan,"Refinery production, selenium content",metric tons,680.0,710.0,,,,,,,,Japan
+MCS2025,Selenium,Peru,"Refinery production, selenium content",metric tons,50.0,50.0,reported,,,,16000,,16000.0,Peru
+MCS2025,Selenium,Poland,"Refinery production, selenium content",metric tons,74.0,74.0,reported,,,,3000,,3000.0,Poland
+MCS2025,Selenium,Russia ,"Refinery production, selenium content",metric tons,350.0,340.0,,,,,26000,,26000.0,Russia
+MCS2025,Selenium,Serbia,"Refinery production, selenium content",metric tons,24.0,60.0,,,,,,,,Serbia
+MCS2025,Selenium,South Africa ,"Refinery production, selenium content",metric tons,9.0,9.0,,,,,,,,South Africa
+MCS2025,Selenium,Sweden,"Refinery production, selenium content",metric tons,4.0,, ,,,,500,,500.0,Sweden
+MCS2025,Selenium,Turkey,"Refinery production, selenium content",metric tons,50.0,50.0,,,,,,,,Turkey
+MCS2025,Selenium,Uzbekistan,"Refinery production, selenium content",metric tons,2.0,2.0,,,,,,,,Uzbekistan
+MCS2025,Silicon,United States,"Plant production, Ferosilicon, silicon content ",thousand metric tons,,,W for 23-24,,,,,,,United States
+MCS2025,Silicon,Australia,"Plant production, Ferosilicon, silicon content ",thousand metric tons,,,,,,,,,,Australia
+MCS2025,Silicon,Bhutan,"Plant production, Ferosilicon, silicon content ",thousand metric tons,82.0,80.0,,,,,,,,Bhutan
+MCS2025,Silicon,Brazil,"Plant production, Ferosilicon, silicon content ",thousand metric tons,190.0,200.0,,,,,,,,Brazil
+MCS2025,Silicon,Canada ,"Plant production, Ferosilicon, silicon content ",thousand metric tons,23.0,20.0,,,,,,,,Canada
+MCS2025,Silicon,China,"Plant production, Ferosilicon, silicon content ",thousand metric tons,3640.0,3500.0,,,,,,,,China
+MCS2025,Silicon,France,"Plant production, Ferosilicon, silicon content ",thousand metric tons,23.0,20.0,,,,,,,,France
+MCS2025,Silicon,Germany,"Plant production, Ferosilicon, silicon content ",thousand metric tons,,,,,,,,,,Germany
+MCS2025,Silicon,Iceland,"Plant production, Ferosilicon, silicon content ",thousand metric tons,73.0,70.0,,,,,,,,Iceland
+MCS2025,Silicon,India,"Plant production, Ferosilicon, silicon content ",thousand metric tons,59.0,60.0,,,,,,,,India
+MCS2025,Silicon,Kazakhstan,"Plant production, Ferosilicon, silicon content ",thousand metric tons,127.0,130.0,,,,,,,,Kazakhstan
+MCS2025,Silicon,Malaysia,"Plant production, Ferosilicon, silicon content ",thousand metric tons,91.0,130.0,,,,,,,,Malaysia
+MCS2025,Silicon,Norway,"Plant production, Ferosilicon, silicon content ",thousand metric tons,176.0,180.0,,,,,,,,Norway
+MCS2025,Silicon,Poland,"Plant production, Ferosilicon, silicon content ",thousand metric tons,33.0,30.0,,,,,,,,Poland
+MCS2025,Silicon,Russia ,"Plant production, Ferosilicon, silicon content ",thousand metric tons,473.0,470.0,,,,,,,,Russia
+MCS2025,Silicon,South Africa ,"Plant production, Ferosilicon, silicon content ",thousand metric tons,37.0,40.0,,,,,,,,South Africa
+MCS2025,Silicon,Spain,"Plant production, Ferosilicon, silicon content ",thousand metric tons,44.0,40.0,,,,,,,,Spain
+MCS2025,Silicon,United States,"Plant production, silicon metal",thousand metric tons,,,W for 23-24,,,,,,,United States
+MCS2025,Silicon,Australia,"Plant production, silicon metal",thousand metric tons,39.0,40.0,,,,,,,,Australia
+MCS2025,Silicon,Bhutan,"Plant production, silicon metal",thousand metric tons,,,,,,,,,,Bhutan
+MCS2025,Silicon,Brazil,"Plant production, silicon metal",thousand metric tons,196.0,190.0,,,,,,,,Brazil
+MCS2025,Silicon,Canada ,"Plant production, silicon metal",thousand metric tons,29.0,30.0,,,,,,,,Canada
+MCS2025,Silicon,China,"Plant production, silicon metal",thousand metric tons,3630.0,3900.0,,,,,,,,China
+MCS2025,Silicon,France,"Plant production, silicon metal",thousand metric tons,90.0,90.0,,,,,,,,France
+MCS2025,Silicon,Germany,"Plant production, silicon metal",thousand metric tons,59.0,60.0,,,,,,,,Germany
+MCS2025,Silicon,Iceland,"Plant production, silicon metal",thousand metric tons,24.0,20.0,,,,,,,,Iceland
+MCS2025,Silicon,India,"Plant production, silicon metal",thousand metric tons,,,,,,,,,,India
+MCS2025,Silicon,Kazakhstan,"Plant production, silicon metal",thousand metric tons,7.0,7.0,,,,,,,,Kazakhstan
+MCS2025,Silicon,Malaysia,"Plant production, silicon metal",thousand metric tons,,,,,,,,,,Malaysia
+MCS2025,Silicon,Norway,"Plant production, silicon metal",thousand metric tons,123.0,120.0,,,,,,,,Norway
+MCS2025,Silicon,Poland,"Plant production, silicon metal",thousand metric tons,,,,,,,,,,Poland
+MCS2025,Silicon,Russia ,"Plant production, silicon metal",thousand metric tons,54.0,50.0,,,,,,,,Russia
+MCS2025,Silicon,South Africa ,"Plant production, silicon metal",thousand metric tons,13.0,10.0,,,,,,,,South Africa
+MCS2025,Silicon,Spain,"Plant production, silicon metal",thousand metric tons,5.0,5.0,,,,,,,,Spain
+MCS2025,Silver,United States,"Mine production, silver content",metric tons,1020.0,1100.0,,,,,23000,,23000.0,United States
+MCS2025,Silver,Argentina,"Mine production, silver content",metric tons,808.0,800.0,,,,,6500,,6500.0,Argentina
+MCS2025,Silver,Australia,"Mine production, silver content",metric tons,1030.0,1000.0,,,,,94000,"For Australia, Joint Ore Reserves Committee-compliant or equivalent reserves were 27,000 tons.",94000.0,Australia
+MCS2025,Silver,Bolivia,"Mine production, silver content",metric tons,1350.0,1300.0,,,,,22000,,22000.0,Bolivia
+MCS2025,Silver,Chile,"Mine production, silver content",metric tons,1260.0,1200.0,,,,,26000,,26000.0,Chile
+MCS2025,Silver,Canada ,"Mine production, silver content",metric tons,306.0,300.0,,,,,4900,,4900.0,Canada
+MCS2025,Silver,China,"Mine production, silver content",metric tons,3400.0,3300.0,,,,,70000,,70000.0,China
+MCS2025,Silver,India,"Mine production, silver content",metric tons,813.0,800.0,,,,,8000,,8000.0,India
+MCS2025,Silver,Kazakhstan,"Mine production, silver content",metric tons,985.0,1000.0,,,,,,,,Kazakhstan
+MCS2025,Silver,Mexico,"Mine production, silver content",metric tons,6290.0,6300.0,,,,,37000,,37000.0,Mexico
+MCS2025,Silver,Peru,"Mine production, silver content",metric tons,3200.0,3100.0,,,,,140000,,140000.0,Peru
+MCS2025,Silver,Poland,"Mine production, silver content",metric tons,1320.0,1300.0,,,,,61000,,61000.0,Poland
+MCS2025,Silver,Russia ,"Mine production, silver content",metric tons,1240.0,1200.0,,,,,92000,,92000.0,Russia
+MCS2025,Silver,Sweden,"Mine production, silver content",metric tons,404.0,400.0,,,,,,,,Sweden
+MCS2025,Soda ash,United States,"Soda ash, natural, mine production",thousand metric tons,10900.0,12000.0,,,,,23000000,,23000000.0,United States
+MCS2025,Soda ash,Botswana,"Mine production, natural",thousand metric tons,262.0,270.0,,,,,16000,,16000.0,Botswana
+MCS2025,Soda ash,Ethiopia,"Mine production, natural",thousand metric tons,18.0,20.0,estimated 2023,,,,400000,,400000.0,Ethiopia
+MCS2025,Soda ash,Kenya,"Mine production, natural",thousand metric tons,300.0,300.0,estimated 2023,,,,7000,,7000.0,Kenya
+MCS2025,Soda ash,Turkey,"Mine production, natural",thousand metric tons,11500.0,11000.0,estimated 2023,,,,840000,,840000.0,Turkey
+MCS2025,Strontium,United States,"Mine production, strontium content",metric tons,,,,,,,,,,United States
+MCS2025,Strontium,Argentina,"Mine production, strontium content",metric tons,700.0,700.0,,,,,,,,Argentina
+MCS2025,Strontium,China,"Mine production, strontium content",metric tons,80000.0,80000.0,,,,,12000000,,12000000.0,China
+MCS2025,Strontium,Iran,"Mine production, strontium content",metric tons,200000.0,200000.0,,,,,7100000,,7100000.0,Iran
+MCS2025,Strontium,Mexico,"Mine production, strontium content",metric tons,28000.0,25000.0,,,,,,,,Mexico
+MCS2025,Strontium,Spain,"Mine production, strontium content",metric tons,200000.0,200000.0,,,,,,,,Spain
+MCS2025,Sulfur,United States,"Production, all forms, sulfur content",thousand metric tons,8650.0,8200.0,,,,,,,,United States
+MCS2025,Sulfur,Australia,"Production, all forms, sulfur content",thousand metric tons,900.0,900.0,,,,,,,,Australia
+MCS2025,Sulfur,Canada ,"Production, all forms, sulfur content",thousand metric tons,4980.0,5000.0,,,,,,,,Canada
+MCS2025,Sulfur,Chile,"Production, all forms, sulfur content",thousand metric tons,1300.0,1300.0,,,,,,,,Chile
+MCS2025,Sulfur,China,"Production, all forms, sulfur content",thousand metric tons,19400.0,19000.0,,,,,,,,China
+MCS2025,Sulfur,India,"Production, all forms, sulfur content",thousand metric tons,3680.0,3700.0,,,,,,,,India
+MCS2025,Sulfur,Iran,"Production, all forms, sulfur content",thousand metric tons,2000.0,2000.0,,,,,,,,Iran
+MCS2025,Sulfur,Japan,"Production, all forms, sulfur content",thousand metric tons,3070.0,3100.0,,,,,,,,Japan
+MCS2025,Sulfur,Kazakhstan,"Production, all forms, sulfur content",thousand metric tons,5090.0,5100.0,,,,,,,,Kazakhstan
+MCS2025,Sulfur,"Korea, Republic of","Production, all forms, sulfur content",thousand metric tons,3080.0,3100.0,,,,,,,,"Korea, Republic of"
+MCS2025,Sulfur,Kuwait,"Production, all forms, sulfur content",thousand metric tons,1300.0,1300.0,,,,,,,,Kuwait
+MCS2025,Sulfur,Poland,"Production, all forms, sulfur content",thousand metric tons,1040.0,1100.0,,,,,,,,Poland
+MCS2025,Sulfur,Qatar,"Production, all forms, sulfur content",thousand metric tons,3100.0,3100.0,,,,,,,,Qatar
+MCS2025,Sulfur,Russia ,"Production, all forms, sulfur content",thousand metric tons,7530.0,7500.0,,,,,,,,Russia
+MCS2025,Sulfur,Saudi Arabia,"Production, all forms, sulfur content",thousand metric tons,7500.0,7500.0,,,,,,,,Saudi Arabia
+MCS2025,Sulfur,Turkmenistan,"Production, all forms, sulfur content",thousand metric tons,870.0,900.0,,,,,,,,Turkmenistan
+MCS2025,Sulfur,United Arab Emirates,"Production, all forms, sulfur content",thousand metric tons,6000.0,6000.0,,,,,,,,United Arab Emirates
+MCS2025,Talc and Pyrophyllite,United States (crude),"Mine production, estimated",thousand metric tons,508.0,530.0,reported,,,,140000,,140000.0,United States
+MCS2025,"Talc, crude",Afghanistan,"Mine production, estimated",thousand metric tons,170.0,200.0,,,,,,Large,,Afghanistan
+MCS2025,"Talc, crude",Brazil (crude and beneficiated),"Mine production, estimated",thousand metric tons,348.0,480.0,reported,,,,45000,,45000.0,Brazil
+MCS2025,"Talc, crude",Canada (unspecified minerals),"Mine production, estimated",thousand metric tons,200.0,200.0,,,,,,,,Canada
+MCS2025,"Talc, crude",China (unspecified minerals),"Mine production, estimated",thousand metric tons,1400.0,1400.0,,,,,60000,,60000.0,China
+MCS2025,"Talc, crude",Finland,"Mine production, estimated",thousand metric tons,197.0,200.0,,,,,,Large,,Finland
+MCS2025,"Talc, crude",France (crude),"Mine production, estimated",thousand metric tons,400.0,400.0,,,,,,Large,,France
+MCS2025,"Talc, crude",India,"Mine production, estimated",thousand metric tons,1440.0,1400.0,,,,,110000,,110000.0,India
+MCS2025,"Talc, crude",Italy (includes steatite),"Mine production, estimated",thousand metric tons,170.0,180.0,,,,,,,,Italy
+MCS2025,"Talc, crude",Japan,"Mine production, estimated",thousand metric tons,130.0,130.0,,,,,100000,,100000.0,Japan
+MCS2025,"Talc, crude","Korea, Republic of","Mine production, estimated",thousand metric tons,307.0,310.0,reported,,,,81000,,81000.0,"Korea, Republic of"
+MCS2025,"Talc, crude",Pakistan,"Mine production, estimated",thousand metric tons,200.0,200.0,,,,,,,,Pakistan
+MCS2025,"Talc, crude",South Africa ,"Mine production, estimated",thousand metric tons,200.0,320.0,,,,,,,,South Africa
+MCS2025,"Talc, crude",Turkey,"Mine production, estimated",thousand metric tons,233.0,250.0,reported,,,,15000,,15000.0,Turkey
+MCS2025,Tantalum,United States,"Mine production, tantalum content",metric tons,,,,,,,,,,United States
+MCS2025,Tantalum,Australia,"Mine production, tantalum content",metric tons,44.0,52.0,,,,,110000,"For Australia, Joint Ore Reserves Committee-compliant or equivalent reserves were 28,000 tons.",110000.0,Australia
+MCS2025,Tantalum,Bolivia,"Mine production, tantalum content",metric tons,1.0,2.0,,,,,,,,Bolivia
+MCS2025,Tantalum,Brazil,"Mine production, tantalum content",metric tons,138.0,210.0,,,,,40000,,40000.0,Brazil
+MCS2025,Tantalum,Burundi,"Mine production, tantalum content",metric tons,1.0,2.0,,,,,,,,Burundi
+MCS2025,Tantalum,China,"Mine production, tantalum content",metric tons,78.0,76.0,,,,,240000,,240000.0,China
+MCS2025,Tantalum,Congo (Kinshasa),"Mine production, tantalum content",metric tons,920.0,880.0,,,,,,,,Democratic Republic of the Congo
+MCS2025,Tantalum,Ethiopia,"Mine production, tantalum content",metric tons,40.0,40.0,,,,,,,,Ethiopia
+MCS2025,Tantalum,Mozambique,"Mine production, tantalum content",metric tons,51.0,55.0,,,,,,,,Mozambique
+MCS2025,Tantalum,Nigeria,"Mine production, tantalum content",metric tons,390.0,390.0,,,,,,,,Nigeria
+MCS2025,Tantalum,Russia ,"Mine production, tantalum content",metric tons,23.0,29.0,,,,,,,,Russia
+MCS2025,Tantalum,Rwanda,"Mine production, tantalum content",metric tons,350.0,350.0,,,,,,,,Rwanda
+MCS2025,Tellurium,United States,"Refinery production, tellurium content",metric tons,,,W for 23-24,,,,3800,,3800.0,United States
+MCS2025,Tellurium,Bulgaria,"Refinery production, tellurium content",metric tons,1.0,1.0,,,,,,,,Bulgaria
+MCS2025,Tellurium,Canada ,"Refinery production, tellurium content",metric tons,27.0,27.0,,,,,900,,900.0,Canada
+MCS2025,Tellurium,China,"Refinery production, tellurium content",metric tons,725.0,750.0,,,,,3100,,3100.0,China
+MCS2025,Tellurium,Japan,"Refinery production, tellurium content",metric tons,65.0,70.0,,,,,,,,Japan
+MCS2025,Tellurium,Russia ,"Refinery production, tellurium content",metric tons,73.0,70.0,,,,,5800,,5800.0,Russia
+MCS2025,Tellurium,South Africa ,"Refinery production, tellurium content",metric tons,4.0,4.0,,,,,800,,800.0,South Africa
+MCS2025,Tellurium,Sweden,"Refinery production, tellurium content",metric tons,36.0,46.0,,,,,740,,740.0,Sweden
+MCS2025,Tellurium,Uzbekistan,"Refinery production, tellurium content",metric tons,13.0,13.0,,,,,,,,Uzbekistan
+MCS2025,Tin,United States,"Mine production, tin content",metric tons,,,,,,,, ,,United States
+MCS2025,Tin,Australia,"Mine production, tin content",metric tons,9850.0,9900.0,,,,,620000,,620000.0,Australia
+MCS2025,Tin,Bolivia,"Mine production, tin content",metric tons,18700.0,21000.0,,,,,400000,,400000.0,Bolivia
+MCS2025,Tin,Brazil,"Mine production, tin content",metric tons,29300.0,29000.0,,,,,420000,,420000.0,Brazil
+MCS2025,Tin,Burma,"Mine production, tin content",metric tons,34000.0,34000.0,estimated 2023,,,,700000,,700000.0,Burma
+MCS2025,Tin,China,"Mine production, tin content",metric tons,70000.0,69000.0,estimated 2023,,,,1000000,,1000000.0,China
+MCS2025,Tin,Congo (Kinshasa),"Mine production, tin content",metric tons,20000.0,25000.0,estimated 2023,,,,120000,,120000.0,Democratic Republic of the Congo
+MCS2025,Tin,Indonesia,"Mine production, tin content",metric tons,69000.0,50000.0,estimated 2023,,,,,,,Indonesia
+MCS2025,Tin,Laos,"Mine production, tin content",metric tons,1700.0,1500.0,estimated 2023,,,,,,,Laos
+MCS2025,Tin,Malaysia,"Mine production, tin content",metric tons,3770.0,3000.0, ,,,,,,,Malaysia
+MCS2025,Tin,Nigeria,"Mine production, tin content",metric tons,7000.0,7000.0,estimated 2023,,,,,,,Nigeria
+MCS2025,Tin,Peru,"Mine production, tin content",metric tons,26200.0,31000.0,,,,,130000,,130000.0,Peru
+MCS2025,Tin,Russia ,"Mine production, tin content",metric tons,2700.0,3000.0,estimated 2023,,,,460000,,460000.0,Russia
+MCS2025,Tin,Rwanda,"Mine production, tin content",metric tons,3600.0,3600.0,estimated 2023,,,,,,,Rwanda
+MCS2025,Tin,Vietnam,"Mine production, tin content",metric tons,7600.0,6700.0,estimated 2023,,,,23000,,23000.0,Vietnam
+MCS2025,Titanium Mineral Concentrates,United States,"Mine production, ilmentite, titanium dioxide (TiO2) content",metric tons,100.0,100.0,,,,,2000,,2000.0,United States
+MCS2025,Titanium Mineral Concentrates,United States,"Mine production, rutile, titanium dioxide (TiO2) content",metric tons,,,United States rutile production and reserves data are included with ilmenite.,,,,,United States rutile production and reserves data are included with ilmenite.,,United States
+MCS2025,Titanium Mineral Concentrates,Australia,"Mine production, ilmentite, titanium dioxide (TiO2) content",metric tons,400.0,400.0,,,,,180000,"For Australia, Joint Ore Reserves Committee-compliant or equivalent reserves were estimated to be 43 million tons for ilmenite and 11 million tons for rutile, respectively, TiO2 content.",180000.0,Australia
+MCS2025,Titanium Mineral Concentrates,Australia,"Mine production, rutile, titanium dioxide (TiO2) content",metric tons,200.0,200.0,,,,,35000,"For Australia, Joint Ore Reserves Committee-compliant or equivalent reserves were estimated to be 43 million tons for ilmenite and 11 million tons for rutile, respectively, TiO2 content.",35000.0,Australia
+MCS2025,Titanium Mineral Concentrates,Canada ,"Mine production, ilmentite, titanium dioxide (TiO2) content",metric tons,350.0,350.0,Mine production of titaniferous magnetite is primarily used to produce titaniferous slag.,,,,51000,,51000.0,Canada
+MCS2025,Titanium Mineral Concentrates,China,"Mine production, ilmentite, titanium dioxide (TiO2) content",metric tons,3250.0,3300.0,,,,,110000,,110000.0,China
+MCS2025,Titanium Mineral Concentrates,India,"Mine production, ilmentite, titanium dioxide (TiO2) content",metric tons,210.0,210.0,,,,,15000,,15000.0,India
+MCS2025,Titanium Mineral Concentrates,India,"Mine production, rutile, titanium dioxide (TiO2) content",metric tons,12.0,12.0,,,,,670,,670.0,India
+MCS2025,Titanium Mineral Concentrates,Kenya,"Mine production, rutile, titanium dioxide (TiO2) content",metric tons,47.0,40.0,,,,,,,,Kenya
+MCS2025,Titanium Mineral Concentrates,Madagascar,"Mine production, ilmentite, titanium dioxide (TiO2) content",metric tons,300.0,240.0,Mine production of titaniferous magnetite is primarily used to produce titaniferous slag.,,,,30000,,30000.0,Madagascar
+MCS2025,Titanium Mineral Concentrates,Mozambique,"Mine production, ilmentite, titanium dioxide (TiO2) content",metric tons,1860.0,1900.0,,,,,,,,Mozambique
+MCS2025,Titanium Mineral Concentrates,Mozambique,"Mine production, rutile, titanium dioxide (TiO2) content",metric tons,8.0,8.0,,,,,720,,720.0,Mozambique
+MCS2025,Titanium Mineral Concentrates,Norway,"Mine production, ilmentite, titanium dioxide (TiO2) content",metric tons,360.0,360.0,,,,,37000,,37000.0,Norway
+MCS2025,Titanium Mineral Concentrates,Sierra Leone,"Mine production, rutile, titanium dioxide (TiO2) content",,110.0,60.0,,,,,2900,,2900.0,Sierra Leone
+MCS2025,Titanium Mineral Concentrates,Senegal,"Mine production, ilmentite, titanium dioxide (TiO2) content",metric tons,260.0,300.0,,,,,,,,Senegal
+MCS2025,Titanium Mineral Concentrates,South Africa ,"Mine production, ilmentite, titanium dioxide (TiO2) content",metric tons,1260.0,1300.0,Mine production of titaniferous magnetite is primarily used to produce titaniferous slag.,,,,28000,,28000.0,South Africa
+MCS2025,Titanium Mineral Concentrates,South Africa ,"Mine production, rutile, titanium dioxide (TiO2) content",metric tons,100.0,100.0,,,,,6100,,6100.0,South Africa
+MCS2025,Titanium Mineral Concentrates,Ukraine,"Mine production, ilmentite, titanium dioxide (TiO2) content",metric tons,130.0,120.0,,,,,5900,,5900.0,Ukraine
+MCS2025,Titanium Mineral Concentrates,Ukraine,"Mine production, rutile, titanium dioxide (TiO2) content",metric tons,95.0,10.0,,,,,,,,Ukraine
+MCS2025,Titanium & titanium dioxide,United States,Sponge Metal Production,metric tons,,,W for 23-24,,500.0,,,,,United States
+MCS2025,Titanium & titanium dioxide,Australia,Sponge Metal Production,metric tons,,,,,,,,,,Australia
+MCS2025,Titanium & titanium dioxide,Canada ,Sponge Metal Production,metric tons,,,,,,,,,,Canada
+MCS2025,Titanium & titanium dioxide,China,Sponge Metal Production,metric tons,220000.0,220000.0,,,260000.0,,,,,China
+MCS2025,Titanium & titanium dioxide,Germany,Sponge Metal Production,metric tons,,,,,,,,,,Germany
+MCS2025,Titanium & titanium dioxide,India,Sponge Metal Production,metric tons,300.0,300.0,,,500.0,,,,,India
+MCS2025,Titanium & titanium dioxide,Japan,Sponge Metal Production,metric tons,57000.0,55000.0,,,65200.0,,,,,Japan
+MCS2025,Titanium & titanium dioxide,Kazakhstan,Sponge Metal Production,metric tons,14000.0,14000.0,,,26000.0,,,,,Kazakhstan
+MCS2025,Titanium & titanium dioxide,Mexico,Sponge Metal Production,metric tons,,,,,,,,,,Mexico
+MCS2025,Titanium & titanium dioxide,Russia ,Sponge Metal Production,metric tons,20000.0,20000.0,,,46500.0,,,,,Russia
+MCS2025,Titanium & titanium dioxide,Saudi Arabia,Sponge Metal Production,metric tons,11000.0,15000.0,,,15600.0,,,,,Saudi Arabia
+MCS2025,Titanium & titanium dioxide,Ukraine,Sponge Metal Production,metric tons,,,,,,,,,,Ukraine
+MCS2025,Titanium & titanium dioxide,United Kingdom,Sponge Metal Production,metric tons,,,,,,,,,,United Kingdom
+MCS2025,Titanium & titanium dioxide,United States,Pigment Capacity,metric tons,,,,,1360000.0,,,,,United States
+MCS2025,Titanium & titanium dioxide,Australia,Pigment Capacity,metric tons,,,,,260000.0,,,,,Australia
+MCS2025,Titanium & titanium dioxide,Canada ,Pigment Capacity,metric tons,,,,,180000.0,,,,,Canada
+MCS2025,Titanium & titanium dioxide,China,Pigment Capacity,metric tons,,,,,5500000.0,,,,,China
+MCS2025,Titanium & titanium dioxide,Germany,Pigment Capacity,metric tons,,,,,339000.0,,,,,Germany
+MCS2025,Titanium & titanium dioxide,India,Pigment Capacity,metric tons,,,,,91000.0,,,,,India
+MCS2025,Titanium & titanium dioxide,Japan,Pigment Capacity,metric tons,,,,,322000.0,,,,,Japan
+MCS2025,Titanium & titanium dioxide,Kazakhstan,Pigment Capacity,metric tons,,,,,,,,,,Kazakhstan
+MCS2025,Titanium & titanium dioxide,Mexico,Pigment Capacity,metric tons,,,,,350000.0,,,,,Mexico
+MCS2025,Titanium & titanium dioxide,Russia ,Pigment Capacity,metric tons,,,,,55000.0,,,,,Russia
+MCS2025,Titanium & titanium dioxide,Saudi Arabia,Pigment Capacity,metric tons,,,,,200000.0,,,,,Saudi Arabia
+MCS2025,Titanium & titanium dioxide,Ukraine,Pigment Capacity,metric tons,,,,,122000.0,,,,,Ukraine
+MCS2025,Titanium & titanium dioxide,United Kingdom,Pigment Capacity,metric tons,,,,,315000.0,,,,,United Kingdom
+MCS2025,Tungsten,United States,"Mine production, tungsten content",metric tons,,,,,,,,,,United States
+MCS2025,Tungsten,Australia,"Mine production, tungsten content",metric tons,430.0,1000.0,,,,,570000,"For Australia, Joint Ore Reserves Committee-compliant or equivalent reserves were 220,000 tons.",570000.0,Australia
+MCS2025,Tungsten,Austria,"Mine production, tungsten content",metric tons,850.0,800.0,,,,,10000,,10000.0,Austria
+MCS2025,Tungsten,Bolivia,"Mine production, tungsten content",metric tons,1500.0,1600.0,,,,,,,,Bolivia
+MCS2025,Tungsten,China,"Mine production, tungsten content",metric tons,66000.0,67000.0,,,,,2400000,,2400000.0,China
+MCS2025,Tungsten,"Korea, North","Mine production, tungsten content",metric tons,1600.0,1700.0,,,,,29000,,29000.0,"Korea, North"
+MCS2025,Tungsten,Portugal,"Mine production, tungsten content",metric tons,450.0,500.0,,,,,3400,,3400.0,Portugal
+MCS2025,Tungsten,Russia ,"Mine production, tungsten content",metric tons,2000.0,2000.0,,,,,400000,,400000.0,Russia
+MCS2025,Tungsten,Rwanda,"Mine production, tungsten content",metric tons,1200.0,1200.0,,,,,,,,Rwanda
+MCS2025,Tungsten,Spain,"Mine production, tungsten content",metric tons,650.0,700.0,,,,,66000,,66000.0,Spain
+MCS2025,Tungsten,Vietnam,"Mine production, tungsten content",metric tons,3500.0,3400.0,,,,,140000,,140000.0,Vietnam
+MCS2025,Vanadium,United States,"Mine production, vanadium content",metric tons,,,,,,,45,,45.0,United States
+MCS2025,Vanadium,Australia,"Mine production, vanadium content",metric tons,,,,,,,8500,"For Australia, Joint Ore Reserves Committee-compliant or equivalent reserves were 3 million tons.",8500.0,Australia
+MCS2025,Vanadium,Brazil,"Mine production, vanadium content",metric tons,5420.0,5000.0,,,,,120,,120.0,Brazil
+MCS2025,Vanadium,China,"Mine production, vanadium content",metric tons,70000.0,70000.0,estimated 2023,,,,4100,,4100.0,China
+MCS2025,Vanadium,Russia ,"Mine production, vanadium content",metric tons,20000.0,20000.0,estimated 2023,,,,5000,,5000.0,Russia
+MCS2025,Vanadium,South Africa ,"Mine production, vanadium content",metric tons,8670.0,8000.0,,,,,430,,430.0,South Africa
+MCS2025,Vermiculite,United States,Mine production,thousand metric tons,100.0,100.0,Concentrate sold or used by producers. Data are rounded to the nearest hundred thousand tons to avoid disclosing company proprietary data. ,,,,25000,,25000.0,United States
+MCS2025,Vermiculite,Brazil,Mine production,thousand metric tons,53.0,60.0,,,,,6600,,6600.0,Brazil
+MCS2025,Vermiculite,Bulgaria,Mine production,thousand metric tons,10.0,10.0,estimated 2023,,,,,,,Bulgaria
+MCS2025,Vermiculite,China,Mine production,thousand metric tons,33.0,30.0,estimated 2023,,,,2900,,2900.0,China
+MCS2025,Vermiculite,India,Mine production,thousand metric tons,2.0,2.0,,,,,1600,,1600.0,India
+MCS2025,Vermiculite,Russia ,Mine production,thousand metric tons,29.0,30.0,estimated 2023,,,,,,,Russia
+MCS2025,Vermiculite,South Africa ,Mine production,thousand metric tons,170.0,170.0,,,,,14000,,14000.0,South Africa
+MCS2025,Vermiculite,Turkey,Mine production,thousand metric tons,11.0,10.0,,,,,11000,,11000.0,Turkey
+MCS2025,Vermiculite,Uganda,Mine production,thousand metric tons,23.0,20.0,estimated 2023,,,,,,,Uganda
+MCS2025,Vermiculite,Zimbabwe,Mine production,thousand metric tons,28.0,30.0,,,,,,,,Zimbabwe
+MCS2025,Wollastonite,United States,Mine production,metric tons,,,W for 23-24,,,,,,,United States
+MCS2025,Wollastonite,Canada ,Mine production,metric tons,20000.0,20000.0,,,,,,,,Canada
+MCS2025,Wollastonite,China,Mine production,metric tons,770000.0,800000.0,,,,,,,,China
+MCS2025,Wollastonite,Finland,Mine production,metric tons,10000.0,10000.0,,,,,,,,Finland
+MCS2025,Wollastonite,India,Mine production,metric tons,115000.0,120000.0,,,,,,,,India
+MCS2025,Wollastonite,Mexico,Mine production,metric tons,89200.0,95000.0,,,,,,,,Mexico
+MCS2025,Zeolites (natural),United States,Mine production,metric tons,78000.0,81000.0,estimated 2023,,,,,,,United States
+MCS2025,Zeolites (natural),Chile,Mine production,metric tons,500.0,500.0,,,,,,,,Chile
+MCS2025,Zeolites (natural),China,Mine production,metric tons,150000.0,150000.0,estimated 2023,,,,,,,China
+MCS2025,Zeolites (natural),Cuba,Mine production,metric tons,78000.0,78000.0,estimated 2023,,,,,,,Cuba
+MCS2025,Zeolites (natural),Georgia,Mine production,metric tons,3600.0,5000.0,,,,,,,,Georgia
+MCS2025,Zeolites (natural),Hungary,Mine production,metric tons,32000.0,35000.0,estimated 2023,,,,,,,Hungary
+MCS2025,Zeolites (natural),Indonesia,Mine production,metric tons,120000.0,120000.0,estimated 2023,,,,,,,Indonesia
+MCS2025,Zeolites (natural),Jordan,Mine production,metric tons,1000.0,1000.0,estimated 2023,,,,,,,Jordan
+MCS2025,Zeolites (natural),"Korea, Republic of",Mine production,metric tons,178000.0,130000.0,,,,,,,,"Korea, Republic of"
+MCS2025,Zeolites (natural),New Zealand,Mine production,metric tons,100000.0,100000.0,estimated 2023,,,,,,,New Zealand
+MCS2025,Zeolites (natural),Philippines,Mine production,metric tons,3260.0,7100.0,,,,,,,,Philippines
+MCS2025,Zeolites (natural),Russia ,Mine production,metric tons,35000.0,35000.0,estimated 2023,,,,,,,Russia
+MCS2025,Zeolites (natural),Slovakia,Mine production,metric tons,207000.0,220000.0,,,,,,,,Slovakia
+MCS2025,Zeolites (natural),Turkey,Mine production,metric tons,71700.0,70000.0,,,,,,,,Turkey
+MCS2025,Zinc,United States,"Mine production, zinc content",thousand metric tons,767.0,750.0,,,,,9200,,9200.0,United States
+MCS2025,Zinc,Australia,"Mine production, zinc content",thousand metric tons,1090.0,1100.0,,,,,64000,,64000.0,Australia
+MCS2025,Zinc,Bolivia,"Mine production, zinc content",thousand metric tons,492.0,510.0,,,,,,,,Bolivia
+MCS2025,Zinc,China,"Mine production, zinc content",thousand metric tons,4060.0,4000.0,,,,,46000,,46000.0,China
+MCS2025,Zinc,India,"Mine production, zinc content",thousand metric tons,854.0,860.0,estimated 2023,,,,9800,,9800.0,India
+MCS2025,Zinc,Kazakhstan,"Mine production, zinc content",thousand metric tons,340.0,370.0,,,,,7600,,7600.0,Kazakhstan
+MCS2025,Zinc,Mexico,"Mine production, zinc content",thousand metric tons,584.0,700.0,,,,,14000,,14000.0,Mexico
+MCS2025,Zinc,Peru,"Mine production, zinc content",thousand metric tons,1470.0,1300.0,,,,,20000,,20000.0,Peru
+MCS2025,Zinc,Russia ,"Mine production, zinc content",thousand metric tons,300.0,310.0,estimated 2023,,,,29000,,29000.0,Russia
+MCS2025,Zinc,South Africa ,"Mine production, zinc content",thousand metric tons,198.0,120.0,,,,,5900,,5900.0,South Africa
+MCS2025,Zinc,Sweden,"Mine production, zinc content",thousand metric tons,218.0,240.0,,,,,3900,,3900.0,Sweden
+MCS2025,Zirconium and Hafnium,United States,"Mine production, zirconium, gross weight",thousand metric tons,100.0,100.0,Data are rounded to the nearest hundred thousand tons to avoid disclosing company proprietary data.,,,,500,ZrO2 content,500.0,United States
+MCS2025,Zirconium and Hafnium,Australia,"Mine production, zirconium, gross weight",thousand metric tons,500.0,500.0,,,,,55000,"For Australia, Joint Ore Reserves Committee-compliant or equivalent reserves were 20 million tons, ZrO2 content.",55000.0,Australia
+MCS2025,Zirconium and Hafnium,China,"Mine production, zirconium, gross weight",thousand metric tons,100.0,100.0,,,,,72,ZrO2 content,72.0,China
+MCS2025,Zirconium and Hafnium,Indonesia,"Mine production, zirconium, gross weight",thousand metric tons,95.0,95.0,,,,,,ZrO2 content,,Indonesia
+MCS2025,Zirconium and Hafnium,Kenya,"Mine production, zirconium, gross weight",thousand metric tons,20.0,20.0,reported,,,,5,ZrO2 content,5.0,Kenya
+MCS2025,Zirconium and Hafnium,Madagascar,"Mine production, zirconium, gross weight",thousand metric tons,34.0,30.0,,,,,2100,ZrO2 content,2100.0,Madagascar
+MCS2025,Zirconium and Hafnium,Mozambique,"Mine production, zirconium, gross weight",thousand metric tons,144.0,160.0,reported,,,,1500,ZrO2 content,1500.0,Mozambique
+MCS2025,Zirconium and Hafnium,Senegal,"Mine production, zirconium, gross weight",thousand metric tons,48.0,60.0,reported,,,,2600,ZrO2 content,2600.0,Senegal
+MCS2025,Zirconium and Hafnium,Sierra Leone,"Mine production, zirconium, gross weight",thousand metric tons,28.0,20.0,reported,,,,290,ZrO2 content,290.0,Sierra Leone
+MCS2025,Zirconium and Hafnium,South Africa ,"Mine production, zirconium, gross weight",thousand metric tons,289.0,300.0,reported,,,,5300,ZrO2 content,5300.0,South Africa

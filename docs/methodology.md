@@ -1,127 +1,103 @@
-# Metodología.
+# Metodología
 
+Proyecto: análisis de minerales críticos (producción, reservas, precios y concentración de suministro).
+Todos los datos son del USGS (dominio público, CC0). El pipeline se ejecuta con `python -m etl.main`.
 
-## Fuente de datos.
-USGS Mineral Commodity Summaries 2025, Data Release (World Data), 
-https://www.usgs.gov/data/us-geological-survey-mineral-commodity-summaries-2025-data-release-ver-20-april-2025
+## 1. Fuentes de datos
 
-## Cobertura.
-De los 60 minerales críticos de la lista oficial 2025 (USGS/Departamento de Interior),
-55 están representados en este dataset. No tienen datos disponibles: cesium, scandium,
-rubidium, metallurgical coal, uranium.
+- **USGS Mineral Commodity Summaries 2025, Data Release (ver. 2.0, abril 2025)**, DOI 10.5066/P13XCP3R.
+  - *World Data* (`World_Data.csv`): producción 2024 (estimada), capacidad y reservas 2024 por país y commodity.
+  - *Salient Commodity Data Release* (un CSV por commodity): precios 2020-2024.
+- **Lista de minerales críticos 2025** (USGS / Departamento del Interior): 60 minerales.
 
+## 2. Cobertura
 
-## Limpieza de datos de origen.
-El archivo fuente de USGS contiene varias inconsistencias típicas de datos gubernamentales,
-corregidas antes de cargar a la base de datos:
+De los 60 minerales críticos, 55 aparecen en el archivo World Data. No aparecen: cesium, scandium, rubidium, metallurgical coal y uranium.
 
-- **Nombres de commodity con espacios sobrantes** (ej. `"Barite  "`, `"Tungsten "`) y un
-  error tipográfico (`"Gemanium"` → corregido a `"Germanium"`).
+Cobertura de datos por mineral:
+- **Germanium**: tiene precio, pero el USGS no publica su producción por país (campo vacío en todos los países) ni reservas. No entra en ningún KPI.
+- **Gallium, bismuth, silicon, aluminum, arsenic, beryllium** (entre otros): tienen producción, pero no reservas publicadas.
 
-- **Nombres de país inconsistentes**: espacios sobrantes, caracteres especiales (espacio
-  duro `\xa0`), y notas de proceso entre paréntesis que no forman parte del nombre real
-  del país (ej. `"Brazil (beneficiated)"` → `"Brazil"`, `"United States (crude)"` →
-  `"United States"`).
+## 3. Limpieza de datos de origen
 
-- **Excepción notable**: `"Congo (Kinshasa)"` se resolvió como
-  `"Democratic Republic of the Congo"`, distinguiéndolo explícitamente de la República
-  del Congo (Brazzaville, no presente en este dataset) — una distinción importante dado
-  que la RD Congo domina la producción mundial de cobalto.
+El archivo del USGS tiene inconsistencias típicas de datos publicados a mano. Se corrigen antes de cargar:
 
-- **Filas de "World total (rounded)" y "Other Countries"** excluidas del análisis por país
-  (se conservan aparte como referencia de totales mundiales).
+- **Nombres de commodity con espacios sobrantes** (`"Barite  "`, `"Tungsten "`) y un error tipográfico (`"Gemanium"` → `"Germanium"`).
+- **Nombres de país inconsistentes**: espacios sobrantes, espacio duro (`\xa0`) y notas de proceso entre paréntesis que no forman parte del país (`"Brazil (beneficiated)"` → `"Brazil"`, `"United States (crude)"` → `"United States"`).
+- **Congo**: `"Congo (Kinshasa)"` se resuelve como `"Democratic Republic of the Congo"`, para no confundirlo con la República del Congo. Importa porque la RD Congo domina el cobalto.
+- **Filas `"World total (rounded)"` y `"Other Countries"`**: se excluyen del análisis por país y no se cargan a la base de datos.
+- **`"United States and Canada"`** (dato conjunto sin desglose): se excluye para no duplicar los datos de EE. UU. y Canadá.
+- **Reservas con prefijo `">"`** (por ejemplo `">2,000,000"`): se elimina el símbolo y se conserva el número. Todos los casos observados son filas de total mundial, no de países.
+- **Unidad vacía**: una fila de Titanium Mineral Concentrates (Sierra Leone) no trae unidad; se asume `metric tons`, como el resto del commodity.
+- **Códigos ISO** de país con `pycountry`, con excepciones manuales (`Burma`, `Korea, North`, `Turkey`, `Côte d’Ivoire`, `Democratic Republic of the Congo`).
 
-- **`"United States and Canada"`** (dato combinado bilateral, sin desglose) excluido del
-  análisis por país para evitar doble conteo con los datos individuales de EE.UU. y Canadá.
+## 4. Normalización de unidades
 
-- **Valores de reservas con prefijo `">"`** (ej. `">2,000,000"`, indicando reserva mínima
-  conocida) — el símbolo se elimina y se conserva el valor numérico; todos los casos
-  observados corresponden a filas de "World total", no a países individuales.
+### Producción y reservas
+El archivo mezcla tres unidades: `metric tons`, `thousand metric tons` y `kilograms`. Todo se convierte a toneladas métricas. Afecta, entre otros, a aluminio, cobre, fosfato y potasa (miles de toneladas) y a galio, PGM y renio (kilogramos).
 
-- **Códigos ISO de país** asignados con la librería `pycountry`, con excepciones manuales
-  para nombres no estándar (`"Burma"` → Myanmar, `"Korea, North"`, `"Turkey"` → nombre
-  actualizado a Türkiye en bases ISO recientes, etc.).
+### Precios
+Todos los precios se pasan a USD por tonelada métrica según el sufijo de la columna fuente (`_dlb`, `_ctslb`, `_dkg`, `_dtoz`/`_dto`, `_dt`, `_t`).
 
+Casos en los que la base del precio no coincide con la de la producción y se ajusta a mano:
 
+| Mineral | Producción (base) | Precio fuente | Ajuste |
+|---|---|---|---|
+| Chromium | mineral de cromita, peso bruto | `Price_Ore_dt`, mineral de cromita, peso bruto | Se usa el precio de mineral. El del ferrocromo (por libra de cromo contenido) inflaba el valor unas 10 veces. |
+| Manganese | contenido de manganeso | `Price_CN_CIF_dt`, USD por *metric ton unit* (1 % de Mn) | × 100 para pasar a tonelada de manganeso contenido. El precio es el del mineral (44 % Mn), no el del metal refinado. |
+| Tungsten | contenido de wolframio | `Price_WO3_dt`, USD por *metric ton unit* de WO3 | × 1000 / 7,93 (1 mtu de WO3 contiene 7,93 kg de W). |
+| Titanium | ilmenita + rutilo (suma) | `Price_dt` (rutilo) y `Price_dt.2` (ilmenita) | Promedio de ambos. Se excluyen ilmenita/leucoxeno y escoria. |
 
-## Decisiones de agregación y limpieza.
+Fuentes citadas en los metadatos del USGS: Argus Media (cromo, wolframio), CRU Group (manganeso), Fast Markets IM (rutilo).
 
-- **Rare earths**: tratado como categoría agregada. Los 15 elementos individuales
-  (cerium, dysprosium, erbium, europium, gadolinium, holmium, lanthanum, lutetium,
-  neodymium, praseodymium, samarium, terbium, thulium, ytterbium, yttrium) comparten
-  el mismo valor de producción/reservas del grupo. Marcado con `is_aggregated = TRUE`.
+### Fechas
+`price_date` es el 1 de enero de cada año por convención: el dato original es un promedio anual.
 
-- **Platinum-Group metals**: igual que rare earths, agregado entre platinum, palladium,
-  iridium, rhodium, ruthenium.
+## 5. Decisiones de modelado
 
-- **Titanium**: se usa solo "Titanium Mineral Concentrates" (ilmenita + rutilo, sumados).
-  Se excluye "Titanium & titanium dioxide" (sponge metal / pigment capacity) por medir
-  conceptos distintos y solaparse con la fuente elegida.
+- **Rare earths** (15 elementos), **Platinum-Group metals** (5 elementos) y **Zirconium + Hafnium**: el USGS publica un único valor para el grupo. Todos los miembros comparten ese valor de producción y reservas y se marcan con `is_aggregated = TRUE`.
+  - En PGM, la producción publicada solo incluye platino y paladio (sumados). Iridio, rodio y rutenio comparten esa cifra, que no es su producción real.
+- **Titanium**: se usa solo *Titanium Mineral Concentrates* (ilmenita + rutilo sumados). Se excluye *Titanium & titanium dioxide* (esponja y capacidad de pigmento), que mide otra cosa.
+- **Copper**: solo producción minera. Se excluye refinería para no mezclar etapas de la cadena.
+- **Potash**: reservas en equivalente K2O; se excluye *Reserves, recoverable ore* (mismo dato en otra unidad).
+- **Silicon**: ferrosilicio y silicio metal se suman.
+- **Magnesium**: compuestos y metal se suman.
+- Cuando dos commodities del CSV corresponden al mismo mineral (magnesio, titanio), sus valores se suman por país.
 
-- **Copper**: se usa solo producción minera ("Mine production, recoverable copper content").
-  Se excluye producción de refinería para no mezclar etapas distintas de la cadena de valor.
+## 6. Precios
 
-- **Potash**: reservas medidas en K2O equivalente (estándar de la industria), 
-  excluyendo "Reserves, recoverable ore" (mismo dato en otra unidad).
-
-- **Magnesium**: "Magnesium Compounds" y "Magnesium metal" sumados en un único valor.
-
-
-
-## Limitaciones conocidas.
-Los valores de producción y reservas para categorías agregadas (Rare earths, PGM) 
-no reflejan la contribución real de cada elemento individual, sino el total del grupo.
-Cualquier cálculo económico o de criticidad a nivel de elemento individual dentro de
-estos grupos debe interpretarse con esta limitación en mente.
-
-
-## Fuente de precios
-
-USGS Mineral Commodity Summaries 2025, Salient Commodity Data Release (estadísticas
-domésticas de EE.UU. por commodity), misma publicación y DOI que la fuente de
-producción/reservas.
-
-### Selección de columna de precio por mineral
-Cuando un mineral tiene varias formas comerciales con precio propio (ej. cobre:
-mercado doméstico EE.UU. vs. COMEX vs. LME), se prioriza el precio de referencia
-de mercado internacional (LME) cuando está disponible, por ser el estándar más
-usado para comparar entre países. En ausencia de LME, se usa la forma comercial
-dominante del mineral (ej. fluorspar grado ácido, potash como muriato).
+### Selección de columna
+Si un mineral tiene varias formas comerciales, se prioriza el precio LME cuando existe (cobalto, cobre, plomo, estaño, zinc). Si no, se usa la forma comercial dominante (fluorita grado ácido, potasa como muriato, etc.).
 
 ### Tierras raras: precios proxy
-6 de los 15 elementos de tierras raras tienen precio propio en la fuente
-(cerium, dysprosium, europium, lanthanum, neodymium, terbium). Los 9 restantes
-(erbium, gadolinium, holmium, lutetium, praseodymium, samarium, thulium, ytterbium)
-no cotizan con precio individual en esta fuente — se usa como proxy el precio de
-"mischmetal" (aleación genérica de tierras raras, `Price_Mischmetal_dkg`), marcado
-explícitamente con `is_proxy = TRUE` en la base de datos. Esto es una aproximación,
-no un precio real de mercado para esos 9 elementos, y cualquier cálculo económico
-derivado debe interpretarse con esa salvedad.
+6 de los 15 elementos tienen precio propio (cerium, dysprosium, europium, lanthanum, neodymium, terbium), y el itrio tiene el suyo en un archivo aparte. Los otros 8 (erbium, gadolinium, holmium, lutetium, praseodymium, samarium, thulium, ytterbium) usan como proxy el precio de *mischmetal* (`Price_Mischmetal_dkg`) y se marcan con `is_proxy = TRUE`. Es una aproximación, no un precio de mercado de esos elementos.
 
+## 7. KPIs
 
+### Concentración (HHI)
+Suma de las cuotas de mercado (%) al cuadrado por mineral y año, sobre producción (`hhi_production`) y reservas (`hhi_reserves`). Un valor cercano a 10.000 indica un único país dominante. Se calcula solo con 2024. Los minerales con `is_aggregated = TRUE` del mismo grupo tienen HHI idéntico.
 
-### Excepciones de unidad de precio
-  - **price_date**: representa el año del precio promedio anual, fijado al 1 de enero por convención.
+### Criticality Score (`criticality_index`)
+`0,6 × HHI de producción + 0,4 × HHI de reservas`. La ponderación es una simplificación deliberada que da más peso al riesgo actual que al futuro; no incluye importancia económica ni sustituibilidad.
 
-  - **Precio de titanium**: se calcula como el promedio de los precios de Rutile
-  (`Price_Rutile_dt`, bulk, mínimo 95% TiO2, FOB Australia, fuente Fastmarkets IM)
-  e Ilmenite (`Price_Ilmenite_dt`, valor unitario promedio de importaciones a EE.UU.,
-  fuente USGS). Se excluyen Ilmenite/Leucoxene (fuente distinta, Zen Innovations AG)
-  y Slag (subproducto de menor pureza), para mantener coherencia con los dos
-  componentes usados en el cálculo de producción (ilmenita + rutilo).
+La vista usa `LEFT JOIN`: si falta uno de los dos datos, el score usa solo el HHI disponible y se señala con `has_production_data` / `has_reserves_data`. Esos scores no son directamente comparables con los que usan ambos datos. Quedan 54 de 55 minerales (falta germanio).
 
+### Mining Value Score (`mining_value_score`)
+`toneladas producidas × precio` por mineral, país y año (2024), en USD. Exclusiones:
+- Filas con `is_aggregated = TRUE` (tierras raras, PGM, zirconio y hafnio): la producción es la del grupo y el precio es de un solo elemento.
+- **Magnesium**: la producción suma compuestos y metal, y el precio es solo del metal.
+- **Germanium**: sin producción por país.
 
-  - **Manganese**: el precio fuente (`Price_CN_CIF_dt`) está expresado en dólares por
-  "metric ton unit" (dtu), no por tonelada métrica completa — una convención propia
-  del mercado de mineral de manganeso. Un dtu equivale al 1% de contenido de
-  manganeso por tonelada. El precio se calcula para mineral de grado metalúrgico
-  estándar (44% Mn), por lo que se multiplica por 44 para obtener el precio
-  equivalente por tonelada de mineral. Fuente: CRU Group (vía USGS MCS 2025).
+## 8. Limitaciones conocidas
 
-  - **Tungsten**: el precio fuente (`Price_WO3_dt`) está expresado en dólares por
-  "metric ton unit" de trióxido de wolframio (WO3), no por tonelada de concentrado
-  completo — convención estándar del mercado de wolframio. Se multiplica por 65,
-  correspondiente al grado estándar de concentrado comercial (65% WO3), para obtener
-  el precio equivalente por tonelada de concentrado. Fuente: Argus Media Group
-  (vía USGS MCS 2025).
-
+- Producción y reservas son solo de 2024; los precios cubren 2020-2024.
+- Los precios son estadísticas del USGS (en parte valores unitarios de importaciones a EE. UU.), no un mercado global único. Son USD nominales, sin ajuste por inflación.
+- Las filas *Other Countries* se excluyen, así que las cuotas se calculan sobre los países listados.
+- **La coincidencia de base entre producción y precio solo se ha comprobado a fondo para cromo, manganeso y wolframio.** Hay diferencias de base evidentes por los nombres de columna que aún no se han corregido:
+  - Vanadium: producción en vanadio contenido, precio en V2O5.
+  - Tantalum: producción en tantalio contenido, precio en Ta2O5.
+  - Potash: producción en K2O, precio de muriato de potasio.
+  - Beryllium: producción en berilio contenido, precio de aleación.
+  Su Mining Value Score no debe interpretarse hasta revisarlos. El resto de minerales está pendiente de la misma auditoría.
+- **Silicon**: la producción mezcla ferrosilicio y silicio metal, y se valora al precio del silicio metal, así que puede estar sobrestimada.
+- Para PGM, la producción real de iridio, rodio y rutenio no está publicada.
